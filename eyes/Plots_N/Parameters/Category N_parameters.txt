@@ -1,0 +1,3600 @@
+484_N.png
+area: 5462.0
+endpoints: 168
+intersection_points: 91
+median_tortuosity: 1.0819458277590224
+tortuosity_index: 1.0880900138087322
+length: 1814.9730391504238
+perimeter: 3203.789247542955
+mean_branching_angles: 87.82666353368398
+std_branching_angles: 64.02962144281935
+median_branching_angles: 71.89623696549337
+n_obtuse: 181
+n_acute: 200
+D0: 1.427590951404872
+D1: 1.3931002353248607
+D2: 1.3822992749073455
+SL: 1.6439412846483645
+
+183_N.png
+area: 3519.0
+endpoints: 175
+intersection_points: 111
+median_tortuosity: 1.0815389650284586
+tortuosity_index: 1.0912705976734585
+length: 1102.2648220320207
+perimeter: 2113.6012972767758
+mean_branching_angles: 86.54821798587837
+std_branching_angles: 65.58870412449667
+median_branching_angles: 82.09440193874241
+n_obtuse: 275
+n_acute: 301
+D0: 1.3664817260576487
+D1: 1.341616423231707
+D2: 1.3376155565561219
+SL: 1.3687088568798673
+
+575_N.png
+area: 3673.0
+endpoints: 144
+intersection_points: 33
+median_tortuosity: 1.073670965938207
+tortuosity_index: 1.0910766894726474
+length: 1274.0306561751113
+perimeter: 2106.672365088641
+mean_branching_angles: 104.7917709806236
+std_branching_angles: 66.09465285595576
+median_branching_angles: 126.10088371215109
+n_obtuse: 16
+n_acute: 8
+D0: 1.368923985845319
+D1: 1.3289322483551678
+D2: 1.3166575083284586
+SL: 1.5043888301912935
+
+505_N.png
+area: 5648.0
+endpoints: 194
+intersection_points: 109
+median_tortuosity: 1.0721738456350787
+tortuosity_index: 1.0872680367249503
+length: 1877.6472533825777
+perimeter: 3253.629867976521
+mean_branching_angles: 89.54665631494457
+std_branching_angles: 49.955602594313795
+median_branching_angles: 90.0
+n_obtuse: 105
+n_acute: 105
+D0: 1.4389708727835024
+D1: 1.4186794294001248
+D2: 1.4051684719405755
+SL: 0.7182758031643008
+
+512_N.png
+area: 4238.0
+endpoints: 151
+intersection_points: 99
+median_tortuosity: 1.0796691275336339
+tortuosity_index: 1.087953850541536
+length: 1516.0216716559312
+perimeter: 2483.4541110191612
+mean_branching_angles: 73.1353371196748
+std_branching_angles: 62.707787888388864
+median_branching_angles: 60.31281836080631
+n_obtuse: 156
+n_acute: 251
+D0: 1.4066933747206276
+D1: 1.368328442373373
+D2: 1.3582208408730763
+SL: 1.5977255724104826
+
+597_N.png
+area: 4411.0
+endpoints: 123
+intersection_points: 56
+median_tortuosity: 1.0813368823988112
+tortuosity_index: 1.090198948265211
+length: 1679.587463851154
+perimeter: 2557.833836696128
+mean_branching_angles: 45.26909464384281
+std_branching_angles: 47.77844759286884
+median_branching_angles: 26.49005687258428
+n_obtuse: 12
+n_acute: 64
+D0: 1.4009944779734993
+D1: 1.3665642644066658
+D2: 1.354948546456167
+SL: 1.4394392989628157
+
+560_N.png
+area: 3845.0
+endpoints: 182
+intersection_points: 55
+median_tortuosity: 1.071244746881805
+tortuosity_index: 1.0831032628121753
+length: 1261.545373071249
+perimeter: 2252.689609031344
+mean_branching_angles: 74.87146522443045
+std_branching_angles: 56.80684001707838
+median_branching_angles: 52.07069810382434
+n_obtuse: 37
+n_acute: 55
+D0: 1.3805783752269862
+D1: 1.3461981362192301
+D2: 1.3392230304337982
+SL: 1.524671310637441
+
+532_N.png
+area: 6314.0
+endpoints: 268
+intersection_points: 162
+median_tortuosity: 1.0810570087511753
+tortuosity_index: 1.094667153418498
+length: 2058.8009746178614
+perimeter: 3775.4309498907974
+mean_branching_angles: 70.0163510136554
+std_branching_angles: 57.71997055270364
+median_branching_angles: 49.08561677997487
+n_obtuse: 222
+n_acute: 427
+D0: 1.4629622395592912
+D1: 1.4335126681801111
+D2: 1.4228639120594353
+SL: 1.424635614676427
+
+161_N.png
+area: 5286.0
+endpoints: 273
+intersection_points: 186
+median_tortuosity: 1.0796691275336339
+tortuosity_index: 1.105278230929355
+length: 1378.4692577177593
+perimeter: 3071.2085117392116
+mean_branching_angles: 69.61321481545593
+std_branching_angles: 61.65115311587914
+median_branching_angles: 46.58235392261861
+n_obtuse: 397
+n_acute: 749
+D0: 1.4307276892219545
+D1: 1.4165013694804445
+D2: 1.414412123109677
+SL: 1.3053762734008123
+
+498_N.png
+area: 5482.0
+endpoints: 151
+intersection_points: 121
+median_tortuosity: 1.0809448387420642
+tortuosity_index: 1.0935114467275864
+length: 1733.2977691621884
+perimeter: 3208.5415562219523
+mean_branching_angles: 84.26856181844906
+std_branching_angles: 60.2183418983687
+median_branching_angles: 75.96375653207352
+n_obtuse: 386
+n_acute: 444
+D0: 1.4261964456318275
+D1: 1.3890560068961197
+D2: 1.3766297773589515
+SL: 1.6327226472135625
+
+492_N.png
+area: 4686.0
+endpoints: 189
+intersection_points: 90
+median_tortuosity: 1.0792687417598354
+tortuosity_index: 1.1097922209316635
+length: 1390.4621027473122
+perimeter: 2697.33636201307
+mean_branching_angles: 85.32745557880286
+std_branching_angles: 59.43764185657431
+median_branching_angles: 84.91791518207745
+n_obtuse: 101
+n_acute: 105
+D0: 1.4035840775199357
+D1: 1.3767062751740795
+D2: 1.3667717142390399
+SL: 1.3433229025055315
+
+479_N.png
+area: 4152.0
+endpoints: 137
+intersection_points: 79
+median_tortuosity: 1.0706040453940167
+tortuosity_index: 1.0739114127127092
+length: 1444.749696940602
+perimeter: 2398.2236636408616
+mean_branching_angles: 90.55670195863657
+std_branching_angles: 63.96332963420196
+median_branching_angles: 95.95983911071306
+n_obtuse: 466
+n_acute: 449
+D0: 1.3854531318096208
+D1: 1.3735127461537102
+D2: 1.3718387296392647
+SL: 1.343945344907774
+
+466_N.png
+area: 5446.0
+endpoints: 120
+intersection_points: 100
+median_tortuosity: 1.097574446382816
+tortuosity_index: 1.1120521220413155
+length: 1771.9810439115215
+perimeter: 3203.056274847713
+mean_branching_angles: 81.57699941648173
+std_branching_angles: 54.74841035829883
+median_branching_angles: 77.17121712854457
+n_obtuse: 59
+n_acute: 83
+D0: 1.4157830633824717
+D1: 1.3834559063494716
+D2: 1.3705702351996842
+SL: 1.427980149490779
+
+496_N.png
+area: 6962.0
+endpoints: 257
+intersection_points: 186
+median_tortuosity: 1.0796691275336339
+tortuosity_index: 1.0818014816891979
+length: 2195.8702976356103
+perimeter: 4151.344730177282
+mean_branching_angles: 80.33158013615576
+std_branching_angles: 52.239851199632135
+median_branching_angles: 70.99637725058896
+n_obtuse: 145
+n_acute: 221
+D0: 1.4739625641685004
+D1: 1.4514537081438168
+D2: 1.4417032520726893
+SL: 1.47466550499259
+
+200_N.png
+area: 8328.0
+endpoints: 444
+intersection_points: 291
+median_tortuosity: 1.0998145955975471
+tortuosity_index: 1.1330155470966055
+length: 1930.9077347972645
+perimeter: 4600.398554046445
+mean_branching_angles: 78.63767663043102
+std_branching_angles: 62.074113568799206
+median_branching_angles: 61.840013872162885
+n_obtuse: 247
+n_acute: 333
+D0: 1.500673751909245
+D1: 1.4625845744546357
+D2: 1.4488246243785872
+SL: 1.5476663030195263
+
+166_N.png
+area: 8221.0
+endpoints: 525
+intersection_points: 352
+median_tortuosity: 1.0900870001184582
+tortuosity_index: 1.130001560821477
+length: 1900.6336988787343
+perimeter: 4797.1092321650995
+mean_branching_angles: 78.83510795874697
+std_branching_angles: 61.685727763278706
+median_branching_angles: 64.12291247096312
+n_obtuse: 391
+n_acute: 507
+D0: 1.5120816718816765
+D1: 1.4853826434488289
+D2: 1.4746054362751737
+SL: 1.5334182166058619
+
+499_N.png
+area: 8136.0
+endpoints: 252
+intersection_points: 265
+median_tortuosity: 1.0796691275336339
+tortuosity_index: 1.1054928098102783
+length: 2289.667963346086
+perimeter: 4892.513344459706
+mean_branching_angles: 88.99795811463675
+std_branching_angles: 58.70896585996964
+median_branching_angles: 88.72445245549953
+n_obtuse: 528
+n_acute: 543
+D0: 1.4880548424717555
+D1: 1.4668581012606654
+D2: 1.4580554629940201
+SL: 1.366180196626696
+
+454_N.png
+area: 5312.0
+endpoints: 387
+intersection_points: 111
+median_tortuosity: 1.0806939826241115
+tortuosity_index: 1.0930619339379937
+length: 1465.516884898453
+perimeter: 3019.250142299554
+mean_branching_angles: 87.09547359212078
+std_branching_angles: 57.34239117022023
+median_branching_angles: 97.01812173396324
+n_obtuse: 97
+n_acute: 87
+D0: 1.453481959439684
+D1: 1.4185733260894466
+D2: 1.40815041858376
+SL: 1.5465883115162218
+
+581_N.png
+area: 3418.0
+endpoints: 166
+intersection_points: 55
+median_tortuosity: 1.0756748711358275
+tortuosity_index: 1.0915388780662325
+length: 1330.5679669325007
+perimeter: 2045.73629022557
+mean_branching_angles: 76.60534523707598
+std_branching_angles: 60.42318535580809
+median_branching_angles: 66.03751102542181
+n_obtuse: 74
+n_acute: 109
+D0: 1.3709690894173594
+D1: 1.3275654168419753
+D2: 1.3115644057080784
+SL: 1.5009735353032632
+
+497_N.png
+area: 3088.0
+endpoints: 120
+intersection_points: 41
+median_tortuosity: 1.0796691275336339
+tortuosity_index: 1.0924617151625449
+length: 1119.6193441799148
+perimeter: 1779.6408357960652
+mean_branching_angles: 99.28973075731932
+std_branching_angles: 59.51280256394923
+median_branching_angles: 118.27819837366276
+n_obtuse: 48
+n_acute: 31
+D0: 1.3382656473135917
+D1: 1.2994084354919824
+D2: 1.2889671106737715
+SL: 1.5152908551520266
+
+198_N.png
+area: 5949.0
+endpoints: 226
+intersection_points: 159
+median_tortuosity: 1.0813066194450451
+tortuosity_index: 1.0901441314835212
+length: 1959.7951316269036
+perimeter: 3377.222797089084
+mean_branching_angles: 81.51907159663449
+std_branching_angles: 57.58710039925453
+median_branching_angles: 70.98751386995717
+n_obtuse: 171
+n_acute: 228
+D0: 1.453547487472683
+D1: 1.4222430559131107
+D2: 1.412402717912903
+SL: 1.4425788622715325
+
+194_N.png
+area: 6332.0
+endpoints: 242
+intersection_points: 227
+median_tortuosity: 1.0808904848314547
+tortuosity_index: 1.0928034539695857
+length: 1776.5904794998587
+perimeter: 3731.0999974491097
+mean_branching_angles: 80.26493602285488
+std_branching_angles: 56.51080139250459
+median_branching_angles: 73.92115143781724
+n_obtuse: 366
+n_acute: 483
+D0: 1.457511062182478
+D1: 1.436222608929287
+D2: 1.4295475753631857
+SL: 1.385325147347775
+
+156_N.png
+area: 3484.0
+endpoints: 191
+intersection_points: 121
+median_tortuosity: 1.0905313602252904
+tortuosity_index: 1.112998913487371
+length: 864.846061314643
+perimeter: 2025.1160159025367
+mean_branching_angles: 74.3597819291075
+std_branching_angles: 57.10774611940998
+median_branching_angles: 66.0673836919085
+n_obtuse: 245
+n_acute: 380
+D0: 1.3350995271986075
+D1: 1.3473994457930973
+D2: 1.3560372659020297
+SL: 1.052874458592458
+
+539_N.png
+area: 4655.0
+endpoints: 146
+intersection_points: 84
+median_tortuosity: 1.0805085812997541
+tortuosity_index: 1.086886437945272
+length: 1614.9397013394298
+perimeter: 2742.213562373095
+mean_branching_angles: 86.60709374567573
+std_branching_angles: 56.76092156265165
+median_branching_angles: 76.65716630157694
+n_obtuse: 110
+n_acute: 149
+D0: 1.4075421947857494
+D1: 1.3824693719170706
+D2: 1.3781139803101228
+SL: 1.3601767296272858
+
+495_N.png
+area: 6212.0
+endpoints: 251
+intersection_points: 130
+median_tortuosity: 1.0793474015397337
+tortuosity_index: 1.0893802972969517
+length: 1967.0684092977615
+perimeter: 3575.614716074871
+mean_branching_angles: 88.31998759047741
+std_branching_angles: 62.87456578101847
+median_branching_angles: 84.08155567136336
+n_obtuse: 197
+n_acute: 215
+D0: 1.456681069388777
+D1: 1.423924868440018
+D2: 1.409061966060051
+SL: 1.4030215631051834
+
+526_N.png
+area: 4864.0
+endpoints: 207
+intersection_points: 92
+median_tortuosity: 1.0796691275336339
+tortuosity_index: 1.0939679181198758
+length: 1628.1987391763596
+perimeter: 2791.426765808691
+mean_branching_angles: 72.18219629537704
+std_branching_angles: 59.751090185712144
+median_branching_angles: 52.284023654416856
+n_obtuse: 230
+n_acute: 449
+D0: 1.4259844857422994
+D1: 1.4082730858623134
+D2: 1.407022709243358
+SL: 1.4935987121311989
+
+515_N.png
+area: 5810.0
+endpoints: 206
+intersection_points: 188
+median_tortuosity: 1.0770633235352396
+tortuosity_index: 1.089656827095226
+length: 1811.7670431340102
+perimeter: 3467.2888142670663
+mean_branching_angles: 78.13003572857428
+std_branching_angles: 57.992324337963645
+median_branching_angles: 73.00917670801384
+n_obtuse: 239
+n_acute: 323
+D0: 1.447413347932191
+D1: 1.4177617010663943
+D2: 1.404357148844589
+SL: 1.3457416619462357
+
+488_N.png
+area: 6673.0
+endpoints: 201
+intersection_points: 155
+median_tortuosity: 1.0819927186100111
+tortuosity_index: 1.1080131467252408
+length: 2045.1316498176627
+perimeter: 3912.9578618253786
+mean_branching_angles: 88.04472891044537
+std_branching_angles: 58.7018388461475
+median_branching_angles: 79.50210012664405
+n_obtuse: 278
+n_acute: 305
+D0: 1.4547617092395477
+D1: 1.4223866386993584
+D2: 1.4100052560631104
+SL: 1.497204615527825
+
+169_N.png
+area: 4125.0
+endpoints: 228
+intersection_points: 120
+median_tortuosity: 1.0765461481777479
+tortuosity_index: 1.081007695603029
+length: 1332.533866361628
+perimeter: 2397.998266896446
+mean_branching_angles: 80.431555198912
+std_branching_angles: 69.12917662838254
+median_branching_angles: 56.69261052860688
+n_obtuse: 162
+n_acute: 197
+D0: 1.3991404271680417
+D1: 1.3779379679734534
+D2: 1.3726917840454635
+SL: 1.4167081776164063
+
+525_N.png
+area: 2011.0
+endpoints: 125
+intersection_points: 11
+median_tortuosity: 1.076849676541964
+tortuosity_index: 1.0945682008197248
+length: 712.0830366665598
+perimeter: 1163.4133470105958
+mean_branching_angles: nan
+std_branching_angles: nan
+median_branching_angles: nan
+n_obtuse: 0
+n_acute: 0
+D0: 1.2680197776259003
+D1: 1.259524052147343
+D2: 1.259280769350284
+SL: 1.2672631318392855
+
+171_N.png
+area: 6981.0
+endpoints: 243
+intersection_points: 174
+median_tortuosity: 1.0765469059350954
+tortuosity_index: 1.095569932727437
+length: 2172.616306625639
+perimeter: 4016.320343559643
+mean_branching_angles: 84.93086775544079
+std_branching_angles: 58.70490538054145
+median_branching_angles: 73.02828559941028
+n_obtuse: 230
+n_acute: 284
+D0: 1.471284859039381
+D1: 1.4427644006892566
+D2: 1.4348624164619737
+SL: 1.405842076469021
+
+552_N.png
+area: 4974.0
+endpoints: 145
+intersection_points: 98
+median_tortuosity: 1.0743425979542294
+tortuosity_index: 1.079621352198849
+length: 1763.2326259352685
+perimeter: 2922.3212101114195
+mean_branching_angles: 89.91032601693162
+std_branching_angles: 59.50664760430471
+median_branching_angles: 91.57330036569138
+n_obtuse: 167
+n_acute: 166
+D0: 1.4139931761199556
+D1: 1.3867933446418255
+D2: 1.376521636554667
+SL: 1.4020717966768197
+
+506_N.png
+area: 5656.0
+endpoints: 201
+intersection_points: 109
+median_tortuosity: 1.0743386732154923
+tortuosity_index: 1.0904713088484723
+length: 1858.3379460270764
+perimeter: 3366.0979054080567
+mean_branching_angles: 74.63251217954293
+std_branching_angles: 53.3188656874744
+median_branching_angles: 69.7024302277713
+n_obtuse: 91
+n_acute: 130
+D0: 1.4420801874339078
+D1: 1.412944343729705
+D2: 1.404170088044787
+SL: 1.52162972730126
+
+594_N.png
+area: 4052.0
+endpoints: 170
+intersection_points: 86
+median_tortuosity: 1.0775933558124562
+tortuosity_index: 1.1239707572567625
+length: 1367.289195706801
+perimeter: 2416.2703448350876
+mean_branching_angles: 75.54268041178393
+std_branching_angles: 56.479675244421855
+median_branching_angles: 62.02389443430162
+n_obtuse: 127
+n_acute: 195
+D0: 1.3940867392702723
+D1: 1.3549264328370925
+D2: 1.344972623154312
+SL: 1.5815369942362167
+
+472_N.png
+area: 5972.0
+endpoints: 166
+intersection_points: 149
+median_tortuosity: 1.0779078937979834
+tortuosity_index: 1.0921386692925812
+length: 1923.4799682853031
+perimeter: 3561.8329701443504
+mean_branching_angles: 81.3574755702054
+std_branching_angles: 64.32364656661088
+median_branching_angles: 69.90131402479446
+n_obtuse: 296
+n_acute: 360
+D0: 1.436562303523426
+D1: 1.407168359989176
+D2: 1.3964296493667023
+SL: 1.4781953564905073
+
+524_N.png
+area: 4891.0
+endpoints: 162
+intersection_points: 82
+median_tortuosity: 1.0803630681424048
+tortuosity_index: 1.1068963751594605
+length: 1584.3129604566213
+perimeter: 2829.4095218659877
+mean_branching_angles: 97.0273001192503
+std_branching_angles: 58.29444716442006
+median_branching_angles: 108.32805420798346
+n_obtuse: 78
+n_acute: 56
+D0: 1.4080630131298686
+D1: 1.3786330499035904
+D2: 1.3710629272147121
+SL: 1.5565717338324174
+
+458_N.png
+area: 6017.0
+endpoints: 296
+intersection_points: 244
+median_tortuosity: 1.081297986889817
+tortuosity_index: 1.1027548091652934
+length: 1543.4840750305298
+perimeter: 3474.6958851545037
+mean_branching_angles: 80.72710957820769
+std_branching_angles: 59.33931705798625
+median_branching_angles: 76.32869286780416
+n_obtuse: 608
+n_acute: 728
+D0: 1.4575474485224933
+D1: 1.42224239389458
+D2: 1.4120107846274235
+SL: 1.457841572350432
+
+172_N.png
+area: 6438.0
+endpoints: 248
+intersection_points: 200
+median_tortuosity: 1.0817692691420737
+tortuosity_index: 1.0975533498160643
+length: 1903.0193136067035
+perimeter: 3797.3304448274093
+mean_branching_angles: 85.46825637480761
+std_branching_angles: 59.21658438029787
+median_branching_angles: 84.95754893082909
+n_obtuse: 582
+n_acute: 612
+D0: 1.4600554872602136
+D1: 1.428969426880968
+D2: 1.4190736597179598
+SL: 1.4530605848959905
+
+491_N.png
+area: 5676.0
+endpoints: 214
+intersection_points: 171
+median_tortuosity: 1.082096751490198
+tortuosity_index: 1.0917758920208624
+length: 1735.256207182263
+perimeter: 3362.0979054080567
+mean_branching_angles: 78.1551852669598
+std_branching_angles: 59.866001405396354
+median_branching_angles: 68.19859051364818
+n_obtuse: 228
+n_acute: 303
+D0: 1.4298606833972884
+D1: 1.4098918949146304
+D2: 1.4027046168024162
+SL: 1.3487500419497642
+
+504_N.png
+area: 4777.0
+endpoints: 179
+intersection_points: 96
+median_tortuosity: 1.0767122913670384
+tortuosity_index: 1.0813318783366346
+length: 1633.5280936295712
+perimeter: 2831.9414844344533
+mean_branching_angles: 89.05671860917897
+std_branching_angles: 57.41742172606976
+median_branching_angles: 98.37425902759904
+n_obtuse: 72
+n_acute: 57
+D0: 1.413443381637685
+D1: 1.3859188230298667
+D2: 1.3766842861055884
+SL: 1.4295400599027686
+
+558_N.png
+area: 6450.0
+endpoints: 215
+intersection_points: 124
+median_tortuosity: 1.0762426198135315
+tortuosity_index: 1.0830639436452008
+length: 2006.1128396738104
+perimeter: 3854.313200884706
+mean_branching_angles: 85.00305974979551
+std_branching_angles: 63.42283438235943
+median_branching_angles: 81.97786656839818
+n_obtuse: 380
+n_acute: 407
+D0: 1.4568722868903312
+D1: 1.4323040395003261
+D2: 1.4274796024855705
+SL: 1.4781585330292555
+
+578_N.png
+area: 5935.0
+endpoints: 218
+intersection_points: 170
+median_tortuosity: 1.0780950652612769
+tortuosity_index: 1.081074022103374
+length: 1918.7125973106977
+perimeter: 3479.673590577917
+mean_branching_angles: 85.41795688128478
+std_branching_angles: 58.45296021580293
+median_branching_angles: 73.64761645680888
+n_obtuse: 457
+n_acute: 579
+D0: 1.4507776988920886
+D1: 1.4367244523111022
+D2: 1.42393950001807
+SL: 0.6588679269619073
+
+170_N.png
+area: 3842.0
+endpoints: 210
+intersection_points: 88
+median_tortuosity: 1.08089621093312
+tortuosity_index: 1.0831395514473796
+length: 1251.7795563635436
+perimeter: 2223.54242277373
+mean_branching_angles: 73.7713297035602
+std_branching_angles: 62.480302641370415
+median_branching_angles: 57.9946167919165
+n_obtuse: 112
+n_acute: 195
+D0: 1.403157106611226
+D1: 1.3930091445323913
+D2: 1.3863269596894856
+SL: 0.644947597387947
+
+574_N.png
+area: 6684.0
+endpoints: 208
+intersection_points: 156
+median_tortuosity: 1.0724610202780105
+tortuosity_index: 1.0809131512252952
+length: 2128.0965877510553
+perimeter: 3954.053316254883
+mean_branching_angles: 86.82307872531602
+std_branching_angles: 54.93876701697295
+median_branching_angles: 84.93570337585257
+n_obtuse: 221
+n_acute: 237
+D0: 1.4591224157509097
+D1: 1.4296453697092115
+D2: 1.421164412235972
+SL: 1.4955380261420677
+
+158_N.png
+area: 4968.0
+endpoints: 311
+intersection_points: 165
+median_tortuosity: 1.0903927040785661
+tortuosity_index: 1.1559827716171458
+length: 1294.0914331511872
+perimeter: 2779.9414844344533
+mean_branching_angles: 79.33462669033719
+std_branching_angles: 65.61000251583108
+median_branching_angles: 47.315209882085895
+n_obtuse: 339
+n_acute: 461
+D0: 1.4242341077612504
+D1: 1.415509465763514
+D2: 1.4133254164445817
+SL: 1.3346539194049243
+
+168_N.png
+area: 7740.0
+endpoints: 535
+intersection_points: 241
+median_tortuosity: 1.1159706139816379
+tortuosity_index: 1.150665131627834
+length: 1612.0609723891284
+perimeter: 4374.989391117954
+mean_branching_angles: 89.86727297291235
+std_branching_angles: 69.58953534538378
+median_branching_angles: 97.07073487913814
+n_obtuse: 170
+n_acute: 166
+D0: 1.5096584601907697
+D1: 1.5034656128703263
+D2: 1.494487517192364
+SL: 0.6478411304990102
+
+589_N.png
+area: 2441.0
+endpoints: 111
+intersection_points: 36
+median_tortuosity: 1.0810570087511753
+tortuosity_index: 1.0888060126629366
+length: 864.3996751512223
+perimeter: 1438.479364188578
+mean_branching_angles: 82.28350749547357
+std_branching_angles: 63.44752613464629
+median_branching_angles: 83.71750791183861
+n_obtuse: 60
+n_acute: 61
+D0: 1.299412679804631
+D1: 1.272638970179284
+D2: 1.2684358573586152
+SL: 1.4395489931079974
+
+514_N.png
+area: 5596.0
+endpoints: 202
+intersection_points: 149
+median_tortuosity: 1.0821819320077228
+tortuosity_index: 1.1036205220880742
+length: 1728.6695259336293
+perimeter: 3318.624817342638
+mean_branching_angles: 69.34458014309655
+std_branching_angles: 60.95310195588528
+median_branching_angles: 49.013224492881406
+n_obtuse: 293
+n_acute: 569
+D0: 1.4436241890378059
+D1: 1.4428371410813225
+D2: 1.4352092912938628
+SL: 0.46736423036031893
+
+537_N.png
+area: 3396.0
+endpoints: 170
+intersection_points: 86
+median_tortuosity: 1.0821403791769804
+tortuosity_index: 1.1568125073434934
+length: 978.8363098616519
+perimeter: 1983.0916292848974
+mean_branching_angles: 83.4943168515421
+std_branching_angles: 64.42878009299258
+median_branching_angles: 73.11460494172721
+n_obtuse: 242
+n_acute: 289
+D0: 1.3476488091395256
+D1: 1.342241575590229
+D2: 1.342101917532481
+SL: 1.22434429553614
+
+173_N.png
+area: 7266.0
+endpoints: 496
+intersection_points: 208
+median_tortuosity: 1.0806939826241106
+tortuosity_index: 1.107868692431117
+length: 1672.2191157603368
+perimeter: 4139.568034880645
+mean_branching_angles: 75.41197864437177
+std_branching_angles: 63.59179253310017
+median_branching_angles: 51.119930343647624
+n_obtuse: 162
+n_acute: 227
+D0: 1.49089194538233
+D1: 1.4579362860472278
+D2: 1.4430298896039901
+SL: 1.451661939077671
+
+545_N.png
+area: 5213.0
+endpoints: 223
+intersection_points: 136
+median_tortuosity: 1.082269782621716
+tortuosity_index: 1.0977245020706972
+length: 1546.6542034543702
+perimeter: 2984.3090168026
+mean_branching_angles: 88.15665204551401
+std_branching_angles: 57.59596438771358
+median_branching_angles: 90.27110758247318
+n_obtuse: 218
+n_acute: 216
+D0: 1.4208706320041817
+D1: 1.394704372951649
+D2: 1.3849706718718766
+SL: 1.3937175149387477
+
+584_N.png
+area: 5344.0
+endpoints: 140
+intersection_points: 96
+median_tortuosity: 1.0810570087511755
+tortuosity_index: 1.1284528384903418
+length: 1800.739853198523
+perimeter: 3122.9608204182096
+mean_branching_angles: 83.68106467834544
+std_branching_angles: 60.64277796550336
+median_branching_angles: 65.92450174492117
+n_obtuse: 96
+n_acute: 125
+D0: 1.4197187127535418
+D1: 1.4027369118047792
+D2: 1.4000917654365646
+SL: 1.3879806923393672
+
+509_N.png
+area: 4905.0
+endpoints: 180
+intersection_points: 74
+median_tortuosity: 1.0706040453940169
+tortuosity_index: 1.0860981432962957
+length: 1628.8440391222923
+perimeter: 2910.2379489907344
+mean_branching_angles: 75.76064398120316
+std_branching_angles: 50.35576017870208
+median_branching_angles: 74.20115741924967
+n_obtuse: 61
+n_acute: 91
+D0: 1.423774526607938
+D1: 1.3894044791165212
+D2: 1.378300137237698
+SL: 1.5063335799945279
+
+553_N.png
+area: 5347.0
+endpoints: 143
+intersection_points: 126
+median_tortuosity: 1.0765461481777479
+tortuosity_index: 1.0837500772657496
+length: 1798.7637826389237
+perimeter: 3142.534413547016
+mean_branching_angles: 72.98106986294121
+std_branching_angles: 54.67434599809378
+median_branching_angles: 64.8544754911565
+n_obtuse: 70
+n_acute: 128
+D0: 1.4255233044695612
+D1: 1.39139549978345
+D2: 1.3800551612721286
+SL: 1.4709148956991125
+
+588_N.png
+area: 3556.0
+endpoints: 186
+intersection_points: 50
+median_tortuosity: 1.0754417697692182
+tortuosity_index: 1.091640281911158
+length: 1133.4976703900666
+perimeter: 2109.51803615609
+mean_branching_angles: 75.97761871627938
+std_branching_angles: 55.446879276206744
+median_branching_angles: 71.10678781319032
+n_obtuse: 28
+n_acute: 39
+D0: 1.3647760606115322
+D1: 1.3492226267643663
+D2: 1.3485286016567046
+SL: 1.2885351647512822
+
+579_N.png
+area: 4773.0
+endpoints: 186
+intersection_points: 141
+median_tortuosity: 1.078625004920339
+tortuosity_index: 1.0792403091286455
+length: 1485.8865341880892
+perimeter: 2724.0836200581834
+mean_branching_angles: 77.00645860959392
+std_branching_angles: 63.13554342837957
+median_branching_angles: 56.242525705691904
+n_obtuse: 316
+n_acute: 423
+D0: 1.4085365394944318
+D1: 1.400398635878527
+D2: 1.391992175607962
+SL: 0.5886350833397238
+
+468_N.png
+area: 3089.0
+endpoints: 225
+intersection_points: 53
+median_tortuosity: 1.1007159113133973
+tortuosity_index: 1.0962826522334965
+length: 841.1463271067181
+perimeter: 1832.3981951089456
+mean_branching_angles: 94.80748513906046
+std_branching_angles: 55.48528543022098
+median_branching_angles: 83.45370921670596
+n_obtuse: 67
+n_acute: 72
+D0: 1.349035207494892
+D1: 1.319175059060105
+D2: 1.3087941752499845
+SL: 1.3696375902612945
+
+465_N.png
+area: 4632.0
+endpoints: 166
+intersection_points: 64
+median_tortuosity: 1.0922006378459233
+tortuosity_index: 1.1098531762537382
+length: 1596.502595473125
+perimeter: 2771.752667616496
+mean_branching_angles: 99.53187512567577
+std_branching_angles: 61.80574710550147
+median_branching_angles: 113.83874018317172
+n_obtuse: 77
+n_acute: 54
+D0: 1.4055511056846066
+D1: 1.3775486398698853
+D2: 1.3704244781588142
+SL: 1.3805904358657084
+
+562_N.png
+area: 4240.0
+endpoints: 212
+intersection_points: 87
+median_tortuosity: 1.0719288891143974
+tortuosity_index: 1.084733044375582
+length: 1351.5400011034485
+perimeter: 2436.11810794359
+mean_branching_angles: 79.97931735856619
+std_branching_angles: 60.206758042274245
+median_branching_angles: 80.64221303320028
+n_obtuse: 88
+n_acute: 117
+D0: 1.4054862654661002
+D1: 1.3724003876809479
+D2: 1.3624476611929661
+SL: 1.4654276540329276
+
+470_N.png
+area: 4957.0
+endpoints: 266
+intersection_points: 101
+median_tortuosity: 1.078927543582465
+tortuosity_index: 1.100226583903814
+length: 1508.8725857380268
+perimeter: 2874.054182806661
+mean_branching_angles: 96.74423368960561
+std_branching_angles: 56.301198194419015
+median_branching_angles: 111.71314369647503
+n_obtuse: 143
+n_acute: 100
+D0: 1.4295430725614027
+D1: 1.4037108727939607
+D2: 1.3948900075966844
+SL: 1.3967728271751518
+
+535_N.png
+area: 3531.0
+endpoints: 193
+intersection_points: 88
+median_tortuosity: 1.0765286473233986
+tortuosity_index: 1.0790095712023533
+length: 1130.452146694788
+perimeter: 2071.275395468971
+mean_branching_angles: 48.935190878349964
+std_branching_angles: 55.23655185857555
+median_branching_angles: 18.960583429379597
+n_obtuse: 71
+n_acute: 266
+D0: 1.375421637957842
+D1: 1.3518763101813691
+D2: 1.3480958339702982
+SL: 1.4127976650702005
+
+464_N.png
+area: 4649.0
+endpoints: 249
+intersection_points: 91
+median_tortuosity: 1.0765673119957766
+tortuosity_index: 1.0906109188547464
+length: 1452.6317608747643
+perimeter: 2662.14249456123
+mean_branching_angles: 79.65203760967471
+std_branching_angles: 56.150327551268596
+median_branching_angles: 74.45206044171121
+n_obtuse: 78
+n_acute: 100
+D0: 1.4143902779612159
+D1: 1.3915970104237556
+D2: 1.3844300506251503
+SL: 1.3890971580238507
+
+598_N.png
+area: 3109.0
+endpoints: 125
+intersection_points: 63
+median_tortuosity: 1.078185959631296
+tortuosity_index: 1.0909239313949224
+length: 1138.7824572401798
+perimeter: 1853.1210665364204
+mean_branching_angles: 91.5890026226909
+std_branching_angles: 66.64222739238323
+median_branching_angles: 118.41272434915831
+n_obtuse: 82
+n_acute: 69
+D0: 1.3506592839558025
+D1: 1.3200923230785677
+D2: 1.3130609870239898
+SL: 1.3615562378263664
+
+529_N.png
+area: 3531.0
+endpoints: 203
+intersection_points: 71
+median_tortuosity: 1.0765012672917873
+tortuosity_index: 1.0892665341310557
+length: 1144.8714912139642
+perimeter: 2070.0916292848974
+mean_branching_angles: 76.99313275854388
+std_branching_angles: 58.94362369309977
+median_branching_angles: 68.7818851057325
+n_obtuse: 150
+n_acute: 206
+D0: 1.3727562722347744
+D1: 1.367115847229905
+D2: 1.366984829848087
+SL: 1.273135108905246
+
+533_N.png
+area: 4237.0
+endpoints: 155
+intersection_points: 89
+median_tortuosity: 1.0764713517784732
+tortuosity_index: 1.080644627653162
+length: 1366.5148712660541
+perimeter: 2419.277487510024
+mean_branching_angles: 61.35910193227989
+std_branching_angles: 57.40267194878865
+median_branching_angles: 35.687665373126336
+n_obtuse: 138
+n_acute: 302
+D0: 1.3886348331718366
+D1: 1.3748753180736843
+D2: 1.374277202336138
+SL: 1.3736275726104668
+
+482_N.png
+area: 4541.0
+endpoints: 183
+intersection_points: 63
+median_tortuosity: 1.0790732735601662
+tortuosity_index: 1.1015133615365797
+length: 1606.892372443832
+perimeter: 2656.414572499872
+mean_branching_angles: 46.841361004619536
+std_branching_angles: 41.50083370907996
+median_branching_angles: 44.081396953336764
+n_obtuse: 6
+n_acute: 56
+D0: 1.412377615648713
+D1: 1.3954979789129733
+D2: 1.3931398868364573
+SL: 1.3109395288903163
+
+564_N.png
+area: 6420.0
+endpoints: 201
+intersection_points: 193
+median_tortuosity: 1.077593355812456
+tortuosity_index: 1.0981604200540735
+length: 1926.5224787687434
+perimeter: 3730.2421330728407
+mean_branching_angles: 87.04835393435022
+std_branching_angles: 57.912355894991535
+median_branching_angles: 89.30972280213493
+n_obtuse: 342
+n_acute: 344
+D0: 1.4587225891829392
+D1: 1.4222213551595533
+D2: 1.4081512491308537
+SL: 1.5249565158647231
+
+518_N.png
+area: 3962.0
+endpoints: 232
+intersection_points: 71
+median_tortuosity: 1.0820396094610003
+tortuosity_index: 1.103636085170483
+length: 1276.2549301125293
+perimeter: 2318.1109652686537
+mean_branching_angles: 95.57054234157538
+std_branching_angles: 61.44475654219149
+median_branching_angles: 116.50898964141389
+n_obtuse: 150
+n_acute: 126
+D0: 1.3956875686820798
+D1: 1.3685729014629482
+D2: 1.3597172708473282
+SL: 1.3955668298031378
+
+486_N.png
+area: 5270.0
+endpoints: 175
+intersection_points: 127
+median_tortuosity: 1.0762080256970246
+tortuosity_index: 1.0794971041119004
+length: 1890.26470967473
+perimeter: 3104.0196949212545
+mean_branching_angles: 89.1389954342059
+std_branching_angles: 54.97253875622929
+median_branching_angles: 90.0
+n_obtuse: 130
+n_acute: 132
+D0: 1.4397330633961376
+D1: 1.3988025394309238
+D2: 1.3848146219432187
+SL: 1.4657871556790163
+
+527_N.png
+area: 4887.0
+endpoints: 190
+intersection_points: 81
+median_tortuosity: 1.0833958522119183
+tortuosity_index: 1.101190790401854
+length: 1517.567330175679
+perimeter: 2821.870416622587
+mean_branching_angles: 71.61508252549419
+std_branching_angles: 50.685371154917725
+median_branching_angles: 61.05938870574333
+n_obtuse: 40
+n_acute: 86
+D0: 1.4043267538914064
+D1: 1.3746759992289201
+D2: 1.3646464813959982
+SL: 1.3922926942481826
+
+152_N.png
+area: 7591.0
+endpoints: 426
+intersection_points: 302
+median_tortuosity: 1.0823898316819596
+tortuosity_index: 1.1118161257667807
+length: 1714.937043524393
+perimeter: 4303.427991297967
+mean_branching_angles: 85.38607628720227
+std_branching_angles: 62.45313001935923
+median_branching_angles: 86.54127568119358
+n_obtuse: 627
+n_acute: 661
+D0: 1.4864499992011686
+D1: 1.4602294104239062
+D2: 1.450524747337469
+SL: 1.4541140617384958
+
+178_N.png
+area: 8662.0
+endpoints: 554
+intersection_points: 320
+median_tortuosity: 1.084097733355398
+tortuosity_index: 1.1238994988271902
+length: 1884.2601571517253
+perimeter: 4942.7021612776625
+mean_branching_angles: 83.23199771864319
+std_branching_angles: 59.17216621582684
+median_branching_angles: 83.6598082540901
+n_obtuse: 245
+n_acute: 278
+D0: 1.5193362919310491
+D1: 1.5166336242614098
+D2: 1.5062283245116812
+SL: 0.6069763225414471
+
+523_N.png
+area: 4486.0
+endpoints: 193
+intersection_points: 112
+median_tortuosity: 1.0781130488392652
+tortuosity_index: 1.0840936698701606
+length: 1402.6118476380157
+perimeter: 2594.5028842544402
+mean_branching_angles: 83.99309413723238
+std_branching_angles: 58.75341102006469
+median_branching_angles: 85.96228937902288
+n_obtuse: 185
+n_acute: 206
+D0: 1.4052363361322555
+D1: 1.3820171426437216
+D2: 1.3745723955943503
+SL: 1.3380180277982943
+
+554_N.png
+area: 5636.0
+endpoints: 231
+intersection_points: 172
+median_tortuosity: 1.078886708013367
+tortuosity_index: 1.081762525720902
+length: 1710.3317543113708
+perimeter: 3428.2278477229675
+mean_branching_angles: 92.28524975733106
+std_branching_angles: 57.1074425274591
+median_branching_angles: 97.05784664988109
+n_obtuse: 345
+n_acute: 305
+D0: 1.4408341529510105
+D1: 1.4100347654335796
+D2: 1.400157666714731
+SL: 1.4423350783447966
+
+538_N.png
+area: 5136.0
+endpoints: 177
+intersection_points: 134
+median_tortuosity: 1.078424143959317
+tortuosity_index: 1.0794089405713767
+length: 1638.7293298953155
+perimeter: 3047.8775592975235
+mean_branching_angles: 68.50010121696958
+std_branching_angles: 64.1836245541168
+median_branching_angles: 35.8376529542783
+n_obtuse: 386
+n_acute: 629
+D0: 1.4153076985597264
+D1: 1.3782528588964575
+D2: 1.3635189188695431
+SL: 1.5312729551258482
+
+580_N.png
+area: 3140.0
+endpoints: 133
+intersection_points: 41
+median_tortuosity: 1.0805085812997541
+tortuosity_index: 1.1550845406255215
+length: 989.5987358995154
+perimeter: 1906.1210665364201
+mean_branching_angles: 90.88786890102617
+std_branching_angles: 65.67940005430333
+median_branching_angles: 125.53767779197437
+n_obtuse: 17
+n_acute: 14
+D0: 1.3327233252039388
+D1: 1.3286340391211926
+D2: 1.3270049520224125
+SL: 0.5760164525806655
+
+521_N.png
+area: 5484.0
+endpoints: 149
+intersection_points: 126
+median_tortuosity: 1.0815389650284586
+tortuosity_index: 1.108317505183579
+length: 1807.4968921212119
+perimeter: 3184.2034611053286
+mean_branching_angles: 76.85695756070217
+std_branching_angles: 64.13917376583271
+median_branching_angles: 49.39870535499553
+n_obtuse: 196
+n_acute: 275
+D0: 1.4291340323151145
+D1: 1.4221156778772182
+D2: 1.4124009191012192
+SL: 0.6714410319787172
+
+487_N.png
+area: 4567.0
+endpoints: 146
+intersection_points: 66
+median_tortuosity: 1.0811951072796946
+tortuosity_index: 1.0930285271935745
+length: 1463.1736570287956
+perimeter: 2702.4145724998716
+mean_branching_angles: 90.27882426103
+std_branching_angles: 59.831754506785344
+median_branching_angles: 66.33773684854881
+n_obtuse: 33
+n_acute: 39
+D0: 1.3956735830204863
+D1: 1.3780089642540976
+D2: 1.3644023251044861
+SL: 0.7241576057785155
+
+469_N.png
+area: 5050.0
+endpoints: 244
+intersection_points: 103
+median_tortuosity: 1.0821756777155231
+tortuosity_index: 1.096449049321808
+length: 1610.8337966772133
+perimeter: 2999.463345735151
+mean_branching_angles: 90.0374090588512
+std_branching_angles: 62.14103633908599
+median_branching_angles: 100.61965527615513
+n_obtuse: 115
+n_acute: 104
+D0: 1.433479868405461
+D1: 1.3949138907816778
+D2: 1.3788226976684976
+SL: 1.5088114154377255
+
+600_N.png
+area: 5431.0
+endpoints: 210
+intersection_points: 157
+median_tortuosity: 1.0743796278960784
+tortuosity_index: 1.0828088081984732
+length: 1771.408456780122
+perimeter: 3240.688742479567
+mean_branching_angles: 85.33488071786496
+std_branching_angles: 65.15714171081584
+median_branching_angles: 80.39984753395234
+n_obtuse: 298
+n_acute: 332
+D0: 1.4479841225401013
+D1: 1.416718753331617
+D2: 1.4072026251768786
+SL: 1.5330181815097983
+
+576_N.png
+area: 4371.0
+endpoints: 192
+intersection_points: 102
+median_tortuosity: 1.0803069831378491
+tortuosity_index: 1.0897367531835558
+length: 1434.7648086084857
+perimeter: 2590.3018741276637
+mean_branching_angles: 86.83197854204802
+std_branching_angles: 57.587698287375346
+median_branching_angles: 96.99390495415459
+n_obtuse: 162
+n_acute: 154
+D0: 1.4082890482837451
+D1: 1.3705205350533702
+D2: 1.3561415876750114
+SL: 1.5190031328900957
+
+179_N.png
+area: 6360.0
+endpoints: 291
+intersection_points: 224
+median_tortuosity: 1.0804027438644423
+tortuosity_index: 1.09166748424655
+length: 1755.3858823304176
+perimeter: 3700.229939764021
+mean_branching_angles: 79.40970462160178
+std_branching_angles: 60.09205667615142
+median_branching_angles: 66.59531044896768
+n_obtuse: 418
+n_acute: 598
+D0: 1.4583159037333555
+D1: 1.4267324975006457
+D2: 1.41512553635154
+SL: 1.480166644367893
+
+556_N.png
+area: 4160.0
+endpoints: 194
+intersection_points: 65
+median_tortuosity: 1.0804518342425844
+tortuosity_index: 1.0935448660554188
+length: 1512.7890880661896
+perimeter: 2443.1109652686537
+mean_branching_angles: 88.2480502756922
+std_branching_angles: 59.78898743863978
+median_branching_angles: 85.33383683268495
+n_obtuse: 56
+n_acute: 57
+D0: 1.407023772291782
+D1: 1.3684425243683451
+D2: 1.357816077856828
+SL: 1.5361670645173617
+
+536_N.png
+area: 4009.0
+endpoints: 200
+intersection_points: 112
+median_tortuosity: 1.0807593798127337
+tortuosity_index: 1.0939185776783114
+length: 1184.2446022163783
+perimeter: 2355.194226389339
+mean_branching_angles: 81.10892560257854
+std_branching_angles: 62.48423867360461
+median_branching_angles: 68.19037039711961
+n_obtuse: 412
+n_acute: 520
+D0: 1.3877573169600679
+D1: 1.3679319445890405
+D2: 1.3676894303428102
+SL: 1.4637049535305893
+
+577_N.png
+area: 5924.0
+endpoints: 178
+intersection_points: 139
+median_tortuosity: 1.0780295255086807
+tortuosity_index: 1.1024226649001032
+length: 1893.0418578681636
+perimeter: 3431.6786412118
+mean_branching_angles: 88.58131052399425
+std_branching_angles: 60.315702669074604
+median_branching_angles: 86.47971862762626
+n_obtuse: 250
+n_acute: 266
+D0: 1.4450900558617226
+D1: 1.4437527851970908
+D2: 1.4350590707876176
+SL: 0.5520532568468366
+
+549_N.png
+area: 5948.0
+endpoints: 225
+intersection_points: 116
+median_tortuosity: 1.0817692691420735
+tortuosity_index: 1.0931835288406133
+length: 1918.1775073336062
+perimeter: 3539.3354954612923
+mean_branching_angles: 81.47567952941237
+std_branching_angles: 56.21245911625726
+median_branching_angles: 70.76932762433871
+n_obtuse: 109
+n_acute: 146
+D0: 1.4434657455712432
+D1: 1.4233039223689716
+D2: 1.4159116339665787
+SL: 1.1990971170370346
+
+167_N.png
+area: 8551.0
+endpoints: 529
+intersection_points: 333
+median_tortuosity: 1.0936759671459484
+tortuosity_index: 1.1356016823243358
+length: 1704.8930677993835
+perimeter: 4857.898120770555
+mean_branching_angles: 73.39905301083388
+std_branching_angles: 58.31311461541377
+median_branching_angles: 61.05244414279533
+n_obtuse: 170
+n_acute: 285
+D0: 1.5112207401013131
+D1: 1.4802907622146904
+D2: 1.4674174725094031
+SL: 1.4429465803944865
+
+184_N.png
+area: 4562.0
+endpoints: 198
+intersection_points: 127
+median_tortuosity: 1.0806939826241113
+tortuosity_index: 1.0945781539272452
+length: 1451.5609423192755
+perimeter: 2663.189175755456
+mean_branching_angles: 92.27383727914085
+std_branching_angles: 62.2817670620255
+median_branching_angles: 98.13010235415598
+n_obtuse: 301
+n_acute: 277
+D0: 1.4075561542392159
+D1: 1.3807254647463316
+D2: 1.3705913484323302
+SL: 1.3037049498554238
+
+483_N.png
+area: 4787.0
+endpoints: 214
+intersection_points: 83
+median_tortuosity: 1.0789004127151072
+tortuosity_index: 1.0853301667196484
+length: 1640.2739646712178
+perimeter: 2752.5272708720795
+mean_branching_angles: 99.20801089473379
+std_branching_angles: 64.21051465313832
+median_branching_angles: 116.32123858529313
+n_obtuse: 71
+n_acute: 59
+D0: 1.425436897722367
+D1: 1.3855101058785917
+D2: 1.3764473598480025
+SL: 1.6068136472963204
+
+551_N.png
+area: 5846.0
+endpoints: 214
+intersection_points: 144
+median_tortuosity: 1.0817692691420737
+tortuosity_index: 1.1015146334094568
+length: 1901.526864180877
+perimeter: 3438.4360005246813
+mean_branching_angles: 87.77306938678167
+std_branching_angles: 57.41926237151173
+median_branching_angles: 86.70742108267468
+n_obtuse: 529
+n_acute: 556
+D0: 1.461257119153699
+D1: 1.4295629683368407
+D2: 1.4233073789847808
+SL: 1.5651199439160521
+
+197_N.png
+area: 5625.0
+endpoints: 289
+intersection_points: 152
+median_tortuosity: 1.0828574529484853
+tortuosity_index: 1.1244533918664805
+length: 1641.946791895938
+perimeter: 3145.659305228044
+mean_branching_angles: 82.11705703496928
+std_branching_angles: 66.37290855746436
+median_branching_angles: 72.40757543781841
+n_obtuse: 346
+n_acute: 379
+D0: 1.4494316595277312
+D1: 1.4273969576272
+D2: 1.4244517448344833
+SL: 1.4689746283273026
+
+561_N.png
+area: 5094.0
+endpoints: 210
+intersection_points: 119
+median_tortuosity: 1.0800040879044412
+tortuosity_index: 1.0861133872342439
+length: 1561.466949593584
+perimeter: 3007.6349186104044
+mean_branching_angles: 75.37441289400786
+std_branching_angles: 52.17066259844188
+median_branching_angles: 66.48342999641525
+n_obtuse: 159
+n_acute: 288
+D0: 1.414564503573971
+D1: 1.3855892929262643
+D2: 1.3753894390828603
+SL: 1.4059345107639576
+
+591_N.png
+area: 5513.0
+endpoints: 156
+intersection_points: 121
+median_tortuosity: 1.078992244661642
+tortuosity_index: 1.0847378100769436
+length: 1896.6414164577911
+perimeter: 3092.4461017924473
+mean_branching_angles: 77.55960727486284
+std_branching_angles: 59.644597712606775
+median_branching_angles: 58.017112189077494
+n_obtuse: 264
+n_acute: 403
+D0: 1.4327090760232288
+D1: 1.4052318339370984
+D2: 1.3984461959231926
+SL: 1.4169336275068822
+
+455_N.png
+area: 5451.0
+endpoints: 201
+intersection_points: 133
+median_tortuosity: 1.0727802880608104
+tortuosity_index: 1.0817926072661481
+length: 1702.4085917531065
+perimeter: 3162.6714985368644
+mean_branching_angles: 93.08857607064726
+std_branching_angles: 56.518512334168506
+median_branching_angles: 101.1695019230829
+n_obtuse: 168
+n_acute: 145
+D0: 1.4286220636385947
+D1: 1.395397881927238
+D2: 1.384402984727145
+SL: 1.484601101147211
+
+177_N.png
+area: 8781.0
+endpoints: 484
+intersection_points: 346
+median_tortuosity: 1.1010229824093458
+tortuosity_index: 1.1468224304384849
+length: 1992.620629339091
+perimeter: 5094.775321130581
+mean_branching_angles: 88.04864340345459
+std_branching_angles: 55.54880962667515
+median_branching_angles: 84.06258390051849
+n_obtuse: 300
+n_acute: 338
+D0: 1.5200706420312786
+D1: 1.5165726540286673
+D2: 1.5065068526732879
+SL: 0.6321472556616479
+
+587_N.png
+area: 3306.0
+endpoints: 129
+intersection_points: 102
+median_tortuosity: 1.0789922446616416
+tortuosity_index: 1.0920917210361687
+length: 1082.0767457044421
+perimeter: 1961.861181906598
+mean_branching_angles: 78.41325642932331
+std_branching_angles: 68.13358249319057
+median_branching_angles: 41.26860300083956
+n_obtuse: 133
+n_acute: 178
+D0: 1.3478851471300766
+D1: 1.3236328725989484
+D2: 1.3161233133488244
+SL: 1.405314693674052
+
+511_N.png
+area: 5614.0
+endpoints: 170
+intersection_points: 154
+median_tortuosity: 1.0745338919498
+tortuosity_index: 1.0748826159783884
+length: 1949.1239367278047
+perimeter: 3232.0491321727773
+mean_branching_angles: 86.09531264475852
+std_branching_angles: 59.09312210196438
+median_branching_angles: 77.14190982700183
+n_obtuse: 316
+n_acute: 374
+D0: 1.445588085603282
+D1: 1.4160092034099248
+D2: 1.4058757658077858
+SL: 1.5344363764843634
+
+546_N.png
+area: 2318.0
+endpoints: 119
+intersection_points: 32
+median_tortuosity: 1.0753115567951084
+tortuosity_index: 1.0912671728660783
+length: 795.4094154618437
+perimeter: 1284.8225099390856
+mean_branching_angles: 81.05241783098228
+std_branching_angles: 67.28645465115204
+median_branching_angles: 60.47132816552014
+n_obtuse: 49
+n_acute: 62
+D0: 1.3280555021945295
+D1: 1.2972956470253578
+D2: 1.2904695514657496
+SL: 1.3622052366597852
+
+489_N.png
+area: 5025.0
+endpoints: 154
+intersection_points: 104
+median_tortuosity: 1.0753171646863509
+tortuosity_index: 1.1006500885443602
+length: 1675.343287386245
+perimeter: 2951.220705048031
+mean_branching_angles: 83.16346290961718
+std_branching_angles: 60.92184455425792
+median_branching_angles: 83.58836728059643
+n_obtuse: 312
+n_acute: 349
+D0: 1.419742413448879
+D1: 1.3879469057704357
+D2: 1.3742399352154444
+SL: 1.4524595396500795
+
+520_N.png
+area: 5647.0
+endpoints: 180
+intersection_points: 136
+median_tortuosity: 1.0772769705285152
+tortuosity_index: 1.0810952648535652
+length: 1959.209052286242
+perimeter: 3372.0390309050103
+mean_branching_angles: 96.26383101634377
+std_branching_angles: 60.26226325740461
+median_branching_angles: 104.4217243300406
+n_obtuse: 159
+n_acute: 132
+D0: 1.4373022950364691
+D1: 1.4115600404801234
+D2: 1.4012789057493873
+SL: 1.4007714279289398
+
+557_N.png
+area: 7054.0
+endpoints: 201
+intersection_points: 166
+median_tortuosity: 1.0796691275336339
+tortuosity_index: 1.0831629176240514
+length: 2213.2243443141633
+perimeter: 4178.599564173221
+mean_branching_angles: 86.75223090964677
+std_branching_angles: 62.595351283758944
+median_branching_angles: 74.77466680666703
+n_obtuse: 300
+n_acute: 366
+D0: 1.4669672126900144
+D1: 1.436057362003947
+D2: 1.4260944237684925
+SL: 1.5369284789585298
+
+193_N.png
+area: 6310.0
+endpoints: 227
+intersection_points: 162
+median_tortuosity: 1.0732251980780938
+tortuosity_index: 1.0842495608465441
+length: 1889.308080171366
+perimeter: 3723.5903294572317
+mean_branching_angles: 83.48866262201274
+std_branching_angles: 51.27599082029018
+median_branching_angles: 83.00480770274201
+n_obtuse: 168
+n_acute: 213
+D0: 1.4467971012320464
+D1: 1.419331526305437
+D2: 1.4115262453706996
+SL: 1.4808965407991996
+
+569_N.png
+area: 5149.0
+endpoints: 150
+intersection_points: 123
+median_tortuosity: 1.0811428339534745
+tortuosity_index: 1.083826101348489
+length: 1767.0003187353025
+perimeter: 2975.6176746677015
+mean_branching_angles: 89.88618642293808
+std_branching_angles: 56.57025649566635
+median_branching_angles: 93.03605109255196
+n_obtuse: 317
+n_acute: 295
+D0: 1.421762746320434
+D1: 1.3921437644097094
+D2: 1.3825307918874838
+SL: 1.4662375962457492
+
+573_N.png
+area: 6111.0
+endpoints: 195
+intersection_points: 139
+median_tortuosity: 1.0787529195108891
+tortuosity_index: 1.0870893695534847
+length: 1979.0893266005523
+perimeter: 3610.70302782944
+mean_branching_angles: 85.75287475830797
+std_branching_angles: 57.85254190357307
+median_branching_angles: 80.50882796310012
+n_obtuse: 404
+n_acute: 489
+D0: 1.4490731328009245
+D1: 1.4412955340874576
+D2: 1.4316449222053513
+SL: 0.5443108916755095
+
+571_N.png
+area: 5199.0
+endpoints: 171
+intersection_points: 132
+median_tortuosity: 1.0780328155929966
+tortuosity_index: 1.0833726060365316
+length: 1714.0881765961635
+perimeter: 3031.9608204182086
+mean_branching_angles: 90.59693827669373
+std_branching_angles: 65.00563762372994
+median_branching_angles: 88.12212255271464
+n_obtuse: 298
+n_acute: 300
+D0: 1.4266758766863703
+D1: 1.3970437264757916
+D2: 1.3879307588658365
+SL: 1.5289803527820776
+
+185_N.png
+area: 7394.0
+endpoints: 412
+intersection_points: 291
+median_tortuosity: 1.086474386450061
+tortuosity_index: 1.1038115722119788
+length: 1769.9263819989358
+perimeter: 4194.308150250823
+mean_branching_angles: 77.38825740034201
+std_branching_angles: 63.96380410086358
+median_branching_angles: 55.910353986500915
+n_obtuse: 382
+n_acute: 526
+D0: 1.4807660215460194
+D1: 1.4531090126580763
+D2: 1.442734811432581
+SL: 1.445436428605005
+
+503_N.png
+area: 6759.0
+endpoints: 213
+intersection_points: 147
+median_tortuosity: 1.0805879327112702
+tortuosity_index: 1.0960661521797568
+length: 2126.7865697010675
+perimeter: 3910.781238316242
+mean_branching_angles: 85.64480489907032
+std_branching_angles: 57.542357560936935
+median_branching_angles: 76.22840028291759
+n_obtuse: 203
+n_acute: 254
+D0: 1.4690688889854049
+D1: 1.4437415412907388
+D2: 1.4371879804591057
+SL: 1.5354204523141153
+
+476_N.png
+area: 7194.0
+endpoints: 189
+intersection_points: 204
+median_tortuosity: 1.0796691275336339
+tortuosity_index: 1.0895783206926577
+length: 2160.8473991682313
+perimeter: 4172.989391117955
+mean_branching_angles: 74.26563812064109
+std_branching_angles: 58.22669906761285
+median_branching_angles: 62.523568645965575
+n_obtuse: 280
+n_acute: 462
+D0: 1.4714868344337766
+D1: 1.4418399319066209
+D2: 1.4324703500353075
+SL: 1.42804476863467
+
+453_N.png
+area: 5450.0
+endpoints: 327
+intersection_points: 118
+median_tortuosity: 1.081348035065874
+tortuosity_index: 1.1025180932496534
+length: 1627.4164301437224
+perimeter: 3134.2795795510774
+mean_branching_angles: 85.1000262407828
+std_branching_angles: 48.40913649552889
+median_branching_angles: 79.29293032848757
+n_obtuse: 69
+n_acute: 91
+D0: 1.4503875142957294
+D1: 1.4176276819413607
+D2: 1.405282123652318
+SL: 1.5567156933217203
+
+500_N.png
+area: 4954.0
+endpoints: 226
+intersection_points: 124
+median_tortuosity: 1.0796691275336339
+tortuosity_index: 1.0849550531174976
+length: 1550.5194075484092
+perimeter: 2946.522220238196
+mean_branching_angles: 77.97564897304987
+std_branching_angles: 64.12225009859881
+median_branching_angles: 52.960713994696185
+n_obtuse: 238
+n_acute: 356
+D0: 1.4253277233910824
+D1: 1.3881288848435218
+D2: 1.3719916790718996
+SL: 1.5544627877799804
+
+519_N.png
+area: 4079.0
+endpoints: 162
+intersection_points: 119
+median_tortuosity: 1.076849676541964
+tortuosity_index: 1.0753937532763458
+length: 1402.3763636266972
+perimeter: 2335.797256769669
+mean_branching_angles: 93.31815114045044
+std_branching_angles: 60.82951034702091
+median_branching_angles: 101.95323197021398
+n_obtuse: 342
+n_acute: 308
+D0: 1.391112040872268
+D1: 1.3611000816912864
+D2: 1.3532427488760521
+SL: 1.3937821749165555
+
+534_N.png
+area: 3532.0
+endpoints: 124
+intersection_points: 48
+median_tortuosity: 1.0811951072796946
+tortuosity_index: 1.100984926940708
+length: 1101.4394033314877
+perimeter: 2109.814500712372
+mean_branching_angles: 95.26860777008503
+std_branching_angles: 62.4811519322399
+median_branching_angles: 113.30515030124948
+n_obtuse: 84
+n_acute: 72
+D0: 1.347801187243015
+D1: 1.3222669574798478
+D2: 1.3172760973692637
+SL: 1.372447030929836
+
+157_N.png
+area: 6869.0
+endpoints: 396
+intersection_points: 348
+median_tortuosity: 1.1027498686093298
+tortuosity_index: 1.1340617502054429
+length: 1589.9350156932112
+perimeter: 3884.7152211382595
+mean_branching_angles: 74.23024442161636
+std_branching_angles: 59.268134049891124
+median_branching_angles: 58.14486761755074
+n_obtuse: 383
+n_acute: 561
+D0: 1.4862909935682835
+D1: 1.4541836350906368
+D2: 1.4456100757039525
+SL: 1.5210361434507753
+
+582_N.png
+area: 5992.0
+endpoints: 165
+intersection_points: 130
+median_tortuosity: 1.0796691275336339
+tortuosity_index: 1.1011318417370695
+length: 1853.7172446982975
+perimeter: 3444.9751057680814
+mean_branching_angles: 89.01956233522182
+std_branching_angles: 55.14154197063814
+median_branching_angles: 94.39870535499554
+n_obtuse: 164
+n_acute: 157
+D0: 1.4342559210538033
+D1: 1.4085504110912592
+D2: 1.3986543479448208
+SL: 1.3963462445495587
+
+547_N.png
+area: 4874.0
+endpoints: 177
+intersection_points: 90
+median_tortuosity: 1.0796691275336339
+tortuosity_index: 1.0815965359600157
+length: 1622.8268192616356
+perimeter: 2874.711037056153
+mean_branching_angles: 84.99936410739801
+std_branching_angles: 65.32934101114057
+median_branching_angles: 72.06575061147045
+n_obtuse: 210
+n_acute: 257
+D0: 1.414292966389064
+D1: 1.3958515680484571
+D2: 1.3915097026193877
+SL: 1.3338972845504693
+
+595_N.png
+area: 2646.0
+endpoints: 129
+intersection_points: 53
+median_tortuosity: 1.0796691275336339
+tortuosity_index: 1.0810334197704359
+length: 931.6899291421184
+perimeter: 1523.131167804187
+mean_branching_angles: 82.02656862532844
+std_branching_angles: 67.91135533629111
+median_branching_angles: 73.73979529168804
+n_obtuse: 67
+n_acute: 77
+D0: 1.3220238420590171
+D1: 1.3021978048543232
+D2: 1.298950062648238
+SL: 1.3931642043028971
+
+189_N.png
+area: 8446.0
+endpoints: 447
+intersection_points: 287
+median_tortuosity: 1.081297986889817
+tortuosity_index: 1.127143252499115
+length: 1990.3939953318452
+perimeter: 5020.8514395763295
+mean_branching_angles: 79.22408468422783
+std_branching_angles: 59.33413182729645
+median_branching_angles: 70.02351415687176
+n_obtuse: 311
+n_acute: 389
+D0: 1.5050505662040958
+D1: 1.4863218178052442
+D2: 1.478552333431947
+SL: 1.3502720879712895
+
+459_N.png
+area: 2720.0
+endpoints: 145
+intersection_points: 33
+median_tortuosity: 1.0792190323877917
+tortuosity_index: 1.081931756667179
+length: 905.0367033152856
+perimeter: 1582.0600999923215
+mean_branching_angles: 75.07050000768903
+std_branching_angles: 59.03160554333977
+median_branching_angles: 46.57655005518373
+n_obtuse: 57
+n_acute: 88
+D0: 1.3325164662362015
+D1: 1.3176661639934089
+D2: 1.3164112908768457
+SL: 1.4118333265437686
+
+471_N.png
+area: 5024.0
+endpoints: 190
+intersection_points: 125
+median_tortuosity: 1.080854368497317
+tortuosity_index: 1.0916783699952501
+length: 1570.3861244004152
+perimeter: 2901.865365988704
+mean_branching_angles: 73.15113365702854
+std_branching_angles: 61.63317712364983
+median_branching_angles: 58.671307132195835
+n_obtuse: 235
+n_acute: 424
+D0: 1.414018695900927
+D1: 1.3880120990615938
+D2: 1.3796941060212946
+SL: 1.4537104667827896
+
+195_N.png
+area: 5288.0
+endpoints: 268
+intersection_points: 166
+median_tortuosity: 1.0796691275336339
+tortuosity_index: 1.0862340450634729
+length: 1612.847770367056
+perimeter: 3119.823735428362
+mean_branching_angles: 79.56890378749415
+std_branching_angles: 56.85669508624517
+median_branching_angles: 70.65926451696734
+n_obtuse: 388
+n_acute: 549
+D0: 1.433286877785847
+D1: 1.409248999829256
+D2: 1.3989279640616423
+SL: 1.4937992991288025
+
+510_N.png
+area: 3605.0
+endpoints: 198
+intersection_points: 68
+median_tortuosity: 1.075940027570805
+tortuosity_index: 1.09562575116158
+length: 1264.517315478755
+perimeter: 2115.417531092702
+mean_branching_angles: 76.0814232461645
+std_branching_angles: 58.142751339621746
+median_branching_angles: 72.80713580638064
+n_obtuse: 58
+n_acute: 72
+D0: 1.375312419975626
+D1: 1.351592036328789
+D2: 1.3442824591778675
+SL: 1.4325266552266531
+
+163_N.png
+area: 3670.0
+endpoints: 197
+intersection_points: 117
+median_tortuosity: 1.0796691275336339
+tortuosity_index: 1.0983531825588628
+length: 1044.823230003568
+perimeter: 2156.7556262093262
+mean_branching_angles: 81.0262251467702
+std_branching_angles: 63.753949132933705
+median_branching_angles: 61.547049888133124
+n_obtuse: 209
+n_acute: 259
+D0: 1.3582728059154574
+D1: 1.3571232937569488
+D2: 1.35647015016067
+SL: 1.053196726689275
+
+196_N.png
+area: 3410.0
+endpoints: 187
+intersection_points: 56
+median_tortuosity: 1.0781535023345459
+tortuosity_index: 1.0875609086033877
+length: 1041.3225133473106
+perimeter: 1974.0205614730319
+mean_branching_angles: 96.37400112562565
+std_branching_angles: 64.47472760927828
+median_branching_angles: 121.06153052020895
+n_obtuse: 37
+n_acute: 31
+D0: 1.3674677170208664
+D1: 1.3480681571513842
+D2: 1.341254325792769
+SL: 1.3431472504535111
+
+544_N.png
+area: 6045.0
+endpoints: 207
+intersection_points: 168
+median_tortuosity: 1.0806939826241113
+tortuosity_index: 1.0987175246736436
+length: 1871.797677269241
+perimeter: 3581.418756581978
+mean_branching_angles: 74.14865807969751
+std_branching_angles: 58.14552330525372
+median_branching_angles: 60.972864922301675
+n_obtuse: 386
+n_acute: 643
+D0: 1.448592637857797
+D1: 1.4219980268575803
+D2: 1.4105734769642078
+SL: 1.4537373109946996
+
+493_N.png
+area: 3278.0
+endpoints: 168
+intersection_points: 56
+median_tortuosity: 1.0796691275336339
+tortuosity_index: 1.0753789299013035
+length: 1045.2782456536077
+perimeter: 1904.292639411674
+mean_branching_angles: 85.02816023717878
+std_branching_angles: 61.323424846614294
+median_branching_angles: 90.61605990839922
+n_obtuse: 131
+n_acute: 130
+D0: 1.3565630964390514
+D1: 1.3483324942536072
+D2: 1.3421998924888694
+SL: 1.1552771267894306
+
+199_N.png
+area: 6501.0
+endpoints: 291
+intersection_points: 260
+median_tortuosity: 1.0817692691420737
+tortuosity_index: 1.1001560330986933
+length: 1580.9933030198333
+perimeter: 3737.283763633183
+mean_branching_angles: 86.74361779163489
+std_branching_angles: 61.2888527409409
+median_branching_angles: 92.64254529406472
+n_obtuse: 561
+n_acute: 548
+D0: 1.4567648482951667
+D1: 1.4335259193302725
+D2: 1.4256413287805179
+SL: 1.3289967341864068
+
+463_N.png
+area: 4132.0
+endpoints: 213
+intersection_points: 118
+median_tortuosity: 1.0753171646863509
+tortuosity_index: 1.084142637145964
+length: 1183.9359865167953
+perimeter: 2354.8388873300114
+mean_branching_angles: 69.96634918720984
+std_branching_angles: 61.77608645104449
+median_branching_angles: 47.568273888512266
+n_obtuse: 116
+n_acute: 205
+D0: 1.389543254095849
+D1: 1.3705224402976708
+D2: 1.36565873861474
+SL: 1.372539067308041
+
+542_N.png
+area: 5181.0
+endpoints: 165
+intersection_points: 139
+median_tortuosity: 1.0784241439593167
+tortuosity_index: 1.08203020001139
+length: 1763.9554137073007
+perimeter: 3073.1323932934624
+mean_branching_angles: 76.8874348905398
+std_branching_angles: 56.98911687208507
+median_branching_angles: 65.85445803957835
+n_obtuse: 308
+n_acute: 431
+D0: 1.4229543893293457
+D1: 1.3915508513252886
+D2: 1.3792333710519482
+SL: 1.4759813655335632
+
+452_N.png
+area: 5389.0
+endpoints: 265
+intersection_points: 199
+median_tortuosity: 1.0796691275336339
+tortuosity_index: 1.1022507829742898
+length: 1468.8138584221258
+perimeter: 3157.7720036002524
+mean_branching_angles: 75.75496256009056
+std_branching_angles: 58.441114442475524
+median_branching_angles: 63.908424546308744
+n_obtuse: 235
+n_acute: 389
+D0: 1.4385511055700124
+D1: 1.425741809571022
+D2: 1.4195002349314765
+SL: 1.31503406425781
+
+586_N.png
+area: 3498.0
+endpoints: 189
+intersection_points: 48
+median_tortuosity: 1.0817090619746412
+tortuosity_index: 1.112050243787918
+length: 1207.2265759849174
+perimeter: 2023.3098833543775
+mean_branching_angles: 99.57854818774379
+std_branching_angles: 55.09049184424498
+median_branching_angles: 110.85274671266276
+n_obtuse: 158
+n_acute: 104
+D0: 1.3764276652624252
+D1: 1.3502389707415379
+D2: 1.3422174875535473
+SL: 1.432367721381472
+
+568_N.png
+area: 5284.0
+endpoints: 173
+intersection_points: 129
+median_tortuosity: 1.0817692691420735
+tortuosity_index: 1.0963838405235526
+length: 1575.1793866868618
+perimeter: 3090.2034611053277
+mean_branching_angles: 77.97648728421144
+std_branching_angles: 64.93740838104448
+median_branching_angles: 56.168143439040776
+n_obtuse: 738
+n_acute: 1037
+D0: 1.4191612132628681
+D1: 1.3958485868579429
+D2: 1.390748490965417
+SL: 1.4321193678850703
+
+516_N.png
+area: 6046.0
+endpoints: 245
+intersection_points: 159
+median_tortuosity: 1.0780332766805052
+tortuosity_index: 1.0821904730904452
+length: 1889.7273621810516
+perimeter: 3518.1883092036774
+mean_branching_angles: 90.52436480379434
+std_branching_angles: 60.46456328152373
+median_branching_angles: 100.02456391867496
+n_obtuse: 684
+n_acute: 591
+D0: 1.4586405891383654
+D1: 1.4243191846019123
+D2: 1.4099838211627493
+SL: 1.5724985071577058
+
+461_N.png
+area: 2670.0
+endpoints: 174
+intersection_points: 46
+median_tortuosity: 1.0823117459700458
+tortuosity_index: 1.106280226658887
+length: 821.2752170507318
+perimeter: 1535.9007204258878
+mean_branching_angles: 69.22219316252884
+std_branching_angles: 65.98156255814068
+median_branching_angles: 26.98789058174848
+n_obtuse: 59
+n_acute: 102
+D0: 1.3376962089140252
+D1: 1.3128206389928605
+D2: 1.3060302438196747
+SL: 1.3548674215083776
+
+502_N.png
+area: 2123.0
+endpoints: 155
+intersection_points: 21
+median_tortuosity: 1.0651676036548123
+tortuosity_index: 1.0762499065239637
+length: 767.3675857203795
+perimeter: 1272.8397538817887
+mean_branching_angles: 79.79019799138428
+std_branching_angles: 1.4966347205376138
+median_branching_angles: 79.79019799138428
+n_obtuse: 0
+n_acute: 2
+D0: 1.2815528379122079
+D1: 1.2610993604702168
+D2: 1.258653214979936
+SL: 1.247783968173459
+
+159_N.png
+area: 5986.0
+endpoints: 304
+intersection_points: 159
+median_tortuosity: 1.076312002515329
+tortuosity_index: 1.0785097980511613
+length: 1689.2214138572147
+perimeter: 3402.6542545941606
+mean_branching_angles: 89.84582143559761
+std_branching_angles: 63.31301003147384
+median_branching_angles: 90.53123611092403
+n_obtuse: 324
+n_acute: 322
+D0: 1.449093311354442
+D1: 1.4373196895950733
+D2: 1.436327704001125
+SL: 1.347525528089765
+
+548_N.png
+area: 5042.0
+endpoints: 180
+intersection_points: 128
+median_tortuosity: 1.0780295255086811
+tortuosity_index: 1.0787472930232966
+length: 1693.9070919236087
+perimeter: 2970.0491321727777
+mean_branching_angles: 71.91933398496194
+std_branching_angles: 61.91826667416418
+median_branching_angles: 43.77716721221478
+n_obtuse: 104
+n_acute: 194
+D0: 1.4239147734308732
+D1: 1.3986217615256078
+D2: 1.3904146314404047
+SL: 1.407357339015241
+
+531_N.png
+area: 3864.0
+endpoints: 217
+intersection_points: 121
+median_tortuosity: 1.0796691275336339
+tortuosity_index: 1.0874453221613287
+length: 1139.2968361297274
+perimeter: 2230.9393923933994
+mean_branching_angles: 80.07784569834959
+std_branching_angles: 64.12285683092705
+median_branching_angles: 67.474877624309
+n_obtuse: 371
+n_acute: 471
+D0: 1.3856026231867418
+D1: 1.3722027226106372
+D2: 1.3694661219507835
+SL: 1.3442168931341876
+
+540_N.png
+area: 4421.0
+endpoints: 207
+intersection_points: 81
+median_tortuosity: 1.074348483931474
+tortuosity_index: 1.0731990591306801
+length: 1333.1489494068787
+perimeter: 2665.4856403117374
+mean_branching_angles: 79.65635897948268
+std_branching_angles: 59.23331766661831
+median_branching_angles: 82.97314078869476
+n_obtuse: 87
+n_acute: 93
+D0: 1.3953368760857061
+D1: 1.381854997973455
+D2: 1.3699421097858009
+SL: 0.6900050181026856
+
+473_N.png
+area: 4820.0
+endpoints: 202
+intersection_points: 114
+median_tortuosity: 1.0757770883043198
+tortuosity_index: 1.0795252632611314
+length: 1583.3950275740665
+perimeter: 2736.0297961890215
+mean_branching_angles: 86.29220060108896
+std_branching_angles: 67.29721360909102
+median_branching_angles: 95.66063475683029
+n_obtuse: 237
+n_acute: 226
+D0: 1.4154520263345525
+D1: 1.3900004815087863
+D2: 1.3817988863996618
+SL: 1.352428416479798
+
+583_N.png
+area: 5583.0
+endpoints: 155
+intersection_points: 122
+median_tortuosity: 1.0813592556089886
+tortuosity_index: 1.1187837425371414
+length: 1746.9961523115962
+perimeter: 3230.8014408517747
+mean_branching_angles: 85.7171639488011
+std_branching_angles: 58.67534242406457
+median_branching_angles: 76.0686040730915
+n_obtuse: 272
+n_acute: 321
+D0: 1.431936171424152
+D1: 1.4268085458204034
+D2: 1.423326237228386
+SL: 0.5186576525996547
+
+530_N.png
+area: 3799.0
+endpoints: 177
+intersection_points: 50
+median_tortuosity: 1.0819796020477161
+tortuosity_index: 1.1062388375508292
+length: 1225.2025691098497
+perimeter: 2200.370849898476
+mean_branching_angles: 72.63411179943672
+std_branching_angles: 67.15920754301928
+median_branching_angles: 34.99202019855865
+n_obtuse: 127
+n_acute: 192
+D0: 1.3762322354152
+D1: 1.3639725190303698
+D2: 1.3616782530408922
+SL: 1.2951943809084538
+
+188_N.png
+area: 6492.0
+endpoints: 416
+intersection_points: 210
+median_tortuosity: 1.0796691275336339
+tortuosity_index: 1.1017282202351733
+length: 1769.6804140660622
+perimeter: 3636.8624073958736
+mean_branching_angles: 86.68354908738442
+std_branching_angles: 59.56503639395231
+median_branching_angles: 85.74182608517395
+n_obtuse: 273
+n_acute: 296
+D0: 1.4821242042201006
+D1: 1.450508368459554
+D2: 1.4381145037248886
+SL: 1.4754739944267898
+
+565_N.png
+area: 3991.0
+endpoints: 183
+intersection_points: 57
+median_tortuosity: 1.0796244891347722
+tortuosity_index: 1.1066481933928838
+length: 1208.6280476201466
+perimeter: 2328.483548270684
+mean_branching_angles: 85.41270928711967
+std_branching_angles: 56.92236532010298
+median_branching_angles: 88.48685692189491
+n_obtuse: 125
+n_acute: 127
+D0: 1.3871636880638822
+D1: 1.3576459813352268
+D2: 1.3505259158373084
+SL: 1.5318280424271564
+
+186_N.png
+area: 8023.0
+endpoints: 488
+intersection_points: 315
+median_tortuosity: 1.0821819320077228
+tortuosity_index: 1.119837785572838
+length: 1828.585418945641
+perimeter: 4677.849347535277
+mean_branching_angles: 80.40544552013799
+std_branching_angles: 62.273981357716316
+median_branching_angles: 70.90557210961626
+n_obtuse: 714
+n_acute: 901
+D0: 1.5070826084672493
+D1: 1.4697413508668817
+D2: 1.4536590722267797
+SL: 1.581621838892301
+
+164_N.png
+area: 3972.0
+endpoints: 289
+intersection_points: 109
+median_tortuosity: 1.079365419683715
+tortuosity_index: 1.1069775544426466
+length: 1028.5904586561205
+perimeter: 2286.412480458818
+mean_branching_angles: 97.78133377635504
+std_branching_angles: 58.13452077969055
+median_branching_angles: 103.98756397283152
+n_obtuse: 44
+n_acute: 43
+D0: 1.3636059724062386
+D1: 1.360559514883424
+D2: 1.3603067837028913
+SL: 1.2723103120486456
+
+592_N.png
+area: 5166.0
+endpoints: 216
+intersection_points: 84
+median_tortuosity: 1.0800279126812427
+tortuosity_index: 1.1072789927145228
+length: 1673.3288160561526
+perimeter: 3138.960820418209
+mean_branching_angles: 85.35090979839715
+std_branching_angles: 53.56077211349633
+median_branching_angles: 74.74488129694222
+n_obtuse: 76
+n_acute: 104
+D0: 1.4254706577860872
+D1: 1.4063731616834743
+D2: 1.4025132855214177
+SL: 1.430798188991389
+
+467_N.png
+area: 4087.0
+endpoints: 177
+intersection_points: 96
+median_tortuosity: 1.0821819320077228
+tortuosity_index: 1.0971101288555207
+length: 1302.0493749224304
+perimeter: 2397.3779925734125
+mean_branching_angles: 79.50056604509896
+std_branching_angles: 57.48606322126847
+median_branching_angles: 74.5592234127295
+n_obtuse: 117
+n_acute: 136
+D0: 1.3864181318335298
+D1: 1.3562807899462723
+D2: 1.3470029986041907
+SL: 1.4582100782403833
+
+474_N.png
+area: 4759.0
+endpoints: 199
+intersection_points: 124
+median_tortuosity: 1.0790674926969812
+tortuosity_index: 1.0847025117775417
+length: 1533.8928796049743
+perimeter: 2762.9709216859765
+mean_branching_angles: 90.07965347118444
+std_branching_angles: 61.995432717963205
+median_branching_angles: 96.50077980045842
+n_obtuse: 222
+n_acute: 209
+D0: 1.4204620754400175
+D1: 1.3861707431407868
+D2: 1.3743012062183906
+SL: 1.4193336308834628
+
+154_N.png
+area: 5639.0
+endpoints: 470
+intersection_points: 157
+median_tortuosity: 1.082311745970046
+tortuosity_index: 1.1337593948763205
+length: 1030.7168568277473
+perimeter: 3147.031888230074
+mean_branching_angles: 79.07904048985404
+std_branching_angles: 52.0310928802736
+median_branching_angles: 70.61809973030452
+n_obtuse: 112
+n_acute: 180
+D0: 1.4527224282308724
+D1: 1.4418525088064198
+D2: 1.4307305564721178
+SL: 0.5768039989650819
+
+155_N.png
+area: 2847.0
+endpoints: 211
+intersection_points: 135
+median_tortuosity: 1.082039609461
+tortuosity_index: 1.119046842785015
+length: 578.4483054303315
+perimeter: 1663.8540392316615
+mean_branching_angles: 89.70236408200597
+std_branching_angles: 65.414601597846
+median_branching_angles: 90.0
+n_obtuse: 238
+n_acute: 238
+D0: 1.3389822508894649
+D1: 1.3922696007912332
+D2: 1.3919542844050798
+SL: 0.051441734248976134
+
+590_N.png
+area: 4277.0
+endpoints: 153
+intersection_points: 119
+median_tortuosity: 1.0787313730149757
+tortuosity_index: 1.0815335796106837
+length: 1348.1187647447125
+perimeter: 2627.8582233137677
+mean_branching_angles: 80.61474541628974
+std_branching_angles: 60.28241060489722
+median_branching_angles: 70.76881115045413
+n_obtuse: 107
+n_acute: 137
+D0: 1.3864398531291406
+D1: 1.3567274358568013
+D2: 1.3492911268267636
+SL: 1.5296066485436968
+
+508_N.png
+area: 6426.0
+endpoints: 222
+intersection_points: 162
+median_tortuosity: 1.0787017775159322
+tortuosity_index: 1.0737592796123459
+length: 2017.6281681368723
+perimeter: 3762.3132008847065
+mean_branching_angles: 86.95157500255978
+std_branching_angles: 56.94396760917033
+median_branching_angles: 85.33625023614671
+n_obtuse: 448
+n_acute: 486
+D0: 1.457986821063718
+D1: 1.4232358152646893
+D2: 1.4099929620501
+SL: 1.5442421771110137
+
+456_N.png
+area: 4278.0
+endpoints: 189
+intersection_points: 107
+median_tortuosity: 1.0768496765419637
+tortuosity_index: 1.074818111383801
+length: 1334.014094806307
+perimeter: 2499.2358569496814
+mean_branching_angles: 79.70402083418547
+std_branching_angles: 57.088559813947505
+median_branching_angles: 72.37770277133173
+n_obtuse: 289
+n_acute: 381
+D0: 1.3887614882149049
+D1: 1.3835463283333624
+D2: 1.3828335872700785
+SL: 1.153011450304468
+
+599_N.png
+area: 6032.0
+endpoints: 192
+intersection_points: 141
+median_tortuosity: 1.0743796278960782
+tortuosity_index: 1.0791146475383195
+length: 2005.1644302480984
+perimeter: 3602.105048082993
+mean_branching_angles: 87.99033642418348
+std_branching_angles: 56.80172479914542
+median_branching_angles: 86.72685460835298
+n_obtuse: 239
+n_acute: 253
+D0: 1.4560957789558908
+D1: 1.4252175673786132
+D2: 1.4142484893411051
+SL: 1.5372344035029961
+
+192_N.png
+area: 6324.0
+endpoints: 374
+intersection_points: 223
+median_tortuosity: 1.0909470091260862
+tortuosity_index: 1.117267692332508
+length: 1503.4631267320872
+perimeter: 3633.2471837067246
+mean_branching_angles: 83.01364380751912
+std_branching_angles: 65.43178123626521
+median_branching_angles: 68.72503002829328
+n_obtuse: 239
+n_acute: 282
+D0: 1.4636529526885422
+D1: 1.4317089204507234
+D2: 1.4210273381463852
+SL: 1.4754642352938685
+
+480_N.png
+area: 5420.0
+endpoints: 178
+intersection_points: 117
+median_tortuosity: 1.0796691275336339
+tortuosity_index: 1.1247841446597366
+length: 1778.289766836438
+perimeter: 3153.48773235279
+mean_branching_angles: 91.26601734291745
+std_branching_angles: 62.027041868455235
+median_branching_angles: 84.9526886312653
+n_obtuse: 120
+n_acute: 125
+D0: 1.4296270871079393
+D1: 1.425627771001905
+D2: 1.416297339283137
+SL: 0.5102498638136543
+
+507_N.png
+area: 6177.0
+endpoints: 220
+intersection_points: 174
+median_tortuosity: 1.0770529758843768
+tortuosity_index: 1.078594796634525
+length: 1919.8350514742954
+perimeter: 3624.6370106514573
+mean_branching_angles: 77.19874129120554
+std_branching_angles: 59.9627364857269
+median_branching_angles: 56.421186274999286
+n_obtuse: 580
+n_acute: 874
+D0: 1.4547501777949365
+D1: 1.4225858930338273
+D2: 1.4087426312290994
+SL: 1.4673609072451759
+
+180_N.png
+area: 5886.0
+endpoints: 374
+intersection_points: 183
+median_tortuosity: 1.0818346945928132
+tortuosity_index: 1.1096069665904127
+length: 1525.729060742147
+perimeter: 3446.4826817189064
+mean_branching_angles: 65.21480849528909
+std_branching_angles: 67.19731568411693
+median_branching_angles: 24.65058472262465
+n_obtuse: 328
+n_acute: 587
+D0: 1.4594226143054259
+D1: 1.4479948419217927
+D2: 1.4461383583964849
+SL: 1.2273104062905351
+
+165_N.png
+area: 7514.0
+endpoints: 495
+intersection_points: 279
+median_tortuosity: 1.0819458277590224
+tortuosity_index: 1.1130667956846514
+length: 1882.8595836831944
+perimeter: 4332.344730177282
+mean_branching_angles: 67.75853478750189
+std_branching_angles: 62.43134006245103
+median_branching_angles: 39.25766436681781
+n_obtuse: 185
+n_acute: 330
+D0: 1.5005687381368906
+D1: 1.4749559512586194
+D2: 1.4648697168070302
+SL: 1.522110709413919
+
+151_N.png
+area: 7750.0
+endpoints: 451
+intersection_points: 291
+median_tortuosity: 1.0828453160433034
+tortuosity_index: 1.1173339801754216
+length: 1837.199766496682
+perimeter: 4522.298048983056
+mean_branching_angles: 84.7748914967269
+std_branching_angles: 60.424525558727524
+median_branching_angles: 82.33804884502777
+n_obtuse: 381
+n_acute: 430
+D0: 1.4984986713504471
+D1: 1.4973147416120542
+D2: 1.4853011364671893
+SL: 0.4644920832521844
+
+572_N.png
+area: 4648.0
+endpoints: 176
+intersection_points: 99
+median_tortuosity: 1.0714585978273743
+tortuosity_index: 1.0840588749970232
+length: 1572.0728079122414
+perimeter: 2877.5567081236027
+mean_branching_angles: 89.7439304566985
+std_branching_angles: 62.88273695419977
+median_branching_angles: 84.27162418786554
+n_obtuse: 161
+n_acute: 172
+D0: 1.4086482377276017
+D1: 1.3822559814596513
+D2: 1.3754698013635565
+SL: 1.4906598606516401
+
+541_N.png
+area: 4501.0
+endpoints: 171
+intersection_points: 67
+median_tortuosity: 1.0757536628438051
+tortuosity_index: 1.0790526792637392
+length: 1453.248018321178
+perimeter: 2655.0419894978413
+mean_branching_angles: 79.09488784727417
+std_branching_angles: 63.32401815105844
+median_branching_angles: 67.39989129942434
+n_obtuse: 153
+n_acute: 173
+D0: 1.404239630482157
+D1: 1.3919922239638145
+D2: 1.3826261335576344
+SL: 0.5745310400339627
+
+570_N.png
+area: 5419.0
+endpoints: 200
+intersection_points: 159
+median_tortuosity: 1.0785168470184971
+tortuosity_index: 1.0867034838898917
+length: 1757.4206699811432
+perimeter: 3264.11514935076
+mean_branching_angles: 78.63369346718359
+std_branching_angles: 59.86188531692529
+median_branching_angles: 70.52969799053305
+n_obtuse: 401
+n_acute: 502
+D0: 1.4390159934196742
+D1: 1.430327263652707
+D2: 1.421703908845966
+SL: 0.6100849256271681
+
+477_N.png
+area: 4872.0
+endpoints: 209
+intersection_points: 83
+median_tortuosity: 1.0796691275336339
+tortuosity_index: 1.0890913088782377
+length: 1530.5314747520672
+perimeter: 2836.0125522463186
+mean_branching_angles: 69.35949568713382
+std_branching_angles: 58.61188151355137
+median_branching_angles: 54.67970352627785
+n_obtuse: 51
+n_acute: 106
+D0: 1.4130203321309005
+D1: 1.3783911418483346
+D2: 1.3655510177968897
+SL: 1.5902243592230627
+
+522_N.png
+area: 4820.0
+endpoints: 185
+intersection_points: 117
+median_tortuosity: 1.0796691275336336
+tortuosity_index: 1.0806022931045405
+length: 1550.2758818461148
+perimeter: 2740.988165628679
+mean_branching_angles: 83.42909611116255
+std_branching_angles: 63.77795014856073
+median_branching_angles: 74.58195534884392
+n_obtuse: 211
+n_acute: 257
+D0: 1.4152300694675144
+D1: 1.3904406493402317
+D2: 1.3842749605815177
+SL: 1.3598531128779219
+
+490_N.png
+area: 5110.0
+endpoints: 188
+intersection_points: 139
+median_tortuosity: 1.0781298713301446
+tortuosity_index: 1.088293050383776
+length: 1695.7195720569125
+perimeter: 2957.0958133670038
+mean_branching_angles: 80.39851462106779
+std_branching_angles: 54.86225992673658
+median_branching_angles: 70.989233583833
+n_obtuse: 307
+n_acute: 404
+D0: 1.4283836757392887
+D1: 1.4238122710073395
+D2: 1.4119441280768894
+SL: 0.6820384871132392
+
+501_N.png
+area: 5322.0
+endpoints: 223
+intersection_points: 144
+median_tortuosity: 1.0767122913670386
+tortuosity_index: 1.0857053634343363
+length: 1682.9857194900035
+perimeter: 3116.3334034202394
+mean_branching_angles: 71.75149811548447
+std_branching_angles: 61.60024028867185
+median_branching_angles: 44.173675860270755
+n_obtuse: 263
+n_acute: 410
+D0: 1.443109138628141
+D1: 1.405396161042808
+D2: 1.3911603473234846
+SL: 1.4873468362744153
+
+457_N.png
+area: 6335.0
+endpoints: 294
+intersection_points: 259
+median_tortuosity: 1.0796691275336339
+tortuosity_index: 1.090933282161795
+length: 1589.818580255673
+perimeter: 3710.8746007046934
+mean_branching_angles: 85.36489563769233
+std_branching_angles: 58.634749649676536
+median_branching_angles: 76.7594800848128
+n_obtuse: 350
+n_acute: 400
+D0: 1.447246654521776
+D1: 1.4228584834405447
+D2: 1.4115279882850247
+SL: 1.4653363142407014
+
+181_N.png
+area: 3937.0
+endpoints: 186
+intersection_points: 76
+median_tortuosity: 1.0774544329778968
+tortuosity_index: 1.0972271010228036
+length: 1232.9198498893506
+perimeter: 2309.6551211459378
+mean_branching_angles: 98.38116095445899
+std_branching_angles: 64.10223266537567
+median_branching_angles: 127.31312833206673
+n_obtuse: 248
+n_acute: 192
+D0: 1.3877563384527114
+D1: 1.3866248036534679
+D2: 1.3791030413804102
+SL: 0.5856227320051801
+
+462_N.png
+area: 6152.0
+endpoints: 201
+intersection_points: 178
+median_tortuosity: 1.0823916600243497
+tortuosity_index: 1.1060168944382545
+length: 1823.4869360307293
+perimeter: 3500.578136148412
+mean_branching_angles: 76.57629680163133
+std_branching_angles: 62.19996494180035
+median_branching_angles: 58.89724702656772
+n_obtuse: 690
+n_acute: 966
+D0: 1.4469689785375763
+D1: 1.4271022563094988
+D2: 1.4175972029333344
+SL: 1.3495069004616849
+
+593_N.png
+area: 5110.0
+endpoints: 148
+intersection_points: 124
+median_tortuosity: 1.0734645158041742
+tortuosity_index: 1.0844856401293816
+length: 1652.7634196199297
+perimeter: 2996.7059864222697
+mean_branching_angles: 86.9165811521266
+std_branching_angles: 65.46322173806162
+median_branching_angles: 72.86700384965687
+n_obtuse: 254
+n_acute: 296
+D0: 1.4104585583389697
+D1: 1.408993108082732
+D2: 1.402075646488265
+SL: 0.5665428537877248
+
+543_N.png
+area: 5475.0
+endpoints: 162
+intersection_points: 132
+median_tortuosity: 1.0780295255086811
+tortuosity_index: 1.0835007415380287
+length: 1980.1019375998653
+perimeter: 3126.754759657549
+mean_branching_angles: 84.97485023653432
+std_branching_angles: 57.66022356911602
+median_branching_angles: 81.46923439005187
+n_obtuse: 421
+n_acute: 506
+D0: 1.4436592000964659
+D1: 1.4117693277935521
+D2: 1.401412569890363
+SL: 1.4488341685518875
+
+187_N.png
+area: 5794.0
+endpoints: 338
+intersection_points: 149
+median_tortuosity: 1.0804443868003664
+tortuosity_index: 1.0930718827738624
+length: 1731.3264041560258
+perimeter: 3263.6836918456834
+mean_branching_angles: 93.77690434616694
+std_branching_angles: 62.144434697631624
+median_branching_angles: 95.00239267890248
+n_obtuse: 87
+n_acute: 82
+D0: 1.4621257059558352
+D1: 1.4259940495689212
+D2: 1.4099927789748876
+SL: 1.5428184485774934
+
+174_N.png
+area: 6691.0
+endpoints: 463
+intersection_points: 225
+median_tortuosity: 1.0819774764495425
+tortuosity_index: 1.0960484231725716
+length: 1618.5001563710503
+perimeter: 3829.6685399440335
+mean_branching_angles: 83.94546112968945
+std_branching_angles: 60.22272890121188
+median_branching_angles: 75.74673121600381
+n_obtuse: 190
+n_acute: 250
+D0: 1.48084959451213
+D1: 1.4459516224225006
+D2: 1.4332204807073015
+SL: 1.5254450761563703
+
+585_N.png
+area: 3395.0
+endpoints: 127
+intersection_points: 43
+median_tortuosity: 1.079057169385413
+tortuosity_index: 1.125926642883654
+length: 1306.2956472196604
+perimeter: 2053.6774157225245
+mean_branching_angles: 66.0778924605018
+std_branching_angles: 48.90043776224951
+median_branching_angles: 53.13010235415599
+n_obtuse: 51
+n_acute: 135
+D0: 1.3612765136434606
+D1: 1.3434402842752848
+D2: 1.3415290425527755
+SL: 1.3958524326348094
+
+451_N.png
+area: 6001.0
+endpoints: 290
+intersection_points: 222
+median_tortuosity: 1.0823921305667907
+tortuosity_index: 1.0922966722171052
+length: 1658.7024485308539
+perimeter: 3471.6197667087545
+mean_branching_angles: 67.61619694640999
+std_branching_angles: 66.04605030609515
+median_branching_angles: 32.47119229084848
+n_obtuse: 375
+n_acute: 674
+D0: 1.453284688538577
+D1: 1.429802327777898
+D2: 1.423664822102176
+SL: 1.4411224581218847
+
+460_N.png
+area: 3598.0
+endpoints: 164
+intersection_points: 47
+median_tortuosity: 1.082039609461
+tortuosity_index: 1.1012223844532754
+length: 1186.4813934931449
+perimeter: 2117.3414126469534
+mean_branching_angles: 78.63460240978014
+std_branching_angles: 58.63639839049252
+median_branching_angles: 58.157542740014804
+n_obtuse: 113
+n_acute: 148
+D0: 1.3727939169453105
+D1: 1.3419762893150715
+D2: 1.3356925613237889
+SL: 1.427760616773053
+
+596_N.png
+area: 4192.0
+endpoints: 126
+intersection_points: 101
+median_tortuosity: 1.0796691275336336
+tortuosity_index: 1.0854299470517488
+length: 1558.6611221668675
+perimeter: 2440.039897456788
+mean_branching_angles: 86.95908867235305
+std_branching_angles: 64.80399867122239
+median_branching_angles: 87.10873040377943
+n_obtuse: 193
+n_acute: 203
+D0: 1.3919940496590935
+D1: 1.3642316355139308
+D2: 1.3578554096157167
+SL: 1.5158047170151407
+
+481_N.png
+area: 5208.0
+endpoints: 218
+intersection_points: 128
+median_tortuosity: 1.0706040453940169
+tortuosity_index: 1.071957004456099
+length: 1671.73273243004
+perimeter: 2997.978064360912
+mean_branching_angles: 81.46219338742466
+std_branching_angles: 56.97601821285185
+median_branching_angles: 76.40351813390235
+n_obtuse: 147
+n_acute: 189
+D0: 1.4284865896509784
+D1: 1.3968647626942143
+D2: 1.3851801636796146
+SL: 1.4082294041760386
+
+513_N.png
+area: 5000.0
+endpoints: 177
+intersection_points: 95
+median_tortuosity: 1.080147266472847
+tortuosity_index: 1.1121461581048735
+length: 1678.014325169471
+perimeter: 2870.627775935468
+mean_branching_angles: 90.22252978256522
+std_branching_angles: 58.941962367984246
+median_branching_angles: 92.27760895833408
+n_obtuse: 158
+n_acute: 155
+D0: 1.42637907871585
+D1: 1.3990272532278067
+D2: 1.3899336822122053
+SL: 1.5590294616901048
+
+182_N.png
+area: 5528.0
+endpoints: 202
+intersection_points: 161
+median_tortuosity: 1.0775310629362822
+tortuosity_index: 1.0787872321221075
+length: 1735.6670372974077
+perimeter: 3279.7892475429553
+mean_branching_angles: 73.07172981250638
+std_branching_angles: 60.98507472328369
+median_branching_angles: 52.92988495300467
+n_obtuse: 155
+n_acute: 288
+D0: 1.4341733542111657
+D1: 1.4039069625976675
+D2: 1.3953168394356257
+SL: 1.5472225319989563
+
+160_N.png
+area: 6043.0
+endpoints: 257
+intersection_points: 182
+median_tortuosity: 1.0804443868003664
+tortuosity_index: 1.0927669451262871
+length: 1742.6765415070477
+perimeter: 3473.565942839592
+mean_branching_angles: 82.24650020079383
+std_branching_angles: 65.0614025226401
+median_branching_angles: 65.90086450596189
+n_obtuse: 246
+n_acute: 306
+D0: 1.444262673349792
+D1: 1.435090655808802
+D2: 1.4340333190648833
+SL: 1.3365318864660272
+
+485_N.png
+area: 5813.0
+endpoints: 176
+intersection_points: 171
+median_tortuosity: 1.0733439086557062
+tortuosity_index: 1.0725593618048443
+length: 1902.23802506083
+perimeter: 3388.1100987168766
+mean_branching_angles: 87.18457311461236
+std_branching_angles: 64.69420387683085
+median_branching_angles: 86.97222667865354
+n_obtuse: 219
+n_acute: 230
+D0: 1.4445216387584359
+D1: 1.4083998485441467
+D2: 1.3962663848147592
+SL: 1.5729046488546
+
+528_N.png
+area: 5138.0
+endpoints: 217
+intersection_points: 100
+median_tortuosity: 1.0775879566161766
+tortuosity_index: 1.1282098487425678
+length: 1477.5261860963383
+perimeter: 3023.5638507985386
+mean_branching_angles: 94.97214134802118
+std_branching_angles: 57.929171055379385
+median_branching_angles: 100.20397372173169
+n_obtuse: 255
+n_acute: 214
+D0: 1.4250372687640804
+D1: 1.394776983430735
+D2: 1.38582554435804
+SL: 1.4457021318120027
+
+517_N.png
+area: 5047.0
+endpoints: 182
+intersection_points: 127
+median_tortuosity: 1.0787118427774405
+tortuosity_index: 1.0871117587339245
+length: 1689.6485393812504
+perimeter: 2889.0075016124356
+mean_branching_angles: 88.85910498894908
+std_branching_angles: 64.61723926933003
+median_branching_angles: 87.27368900609373
+n_obtuse: 340
+n_acute: 351
+D0: 1.4236566962792183
+D1: 1.3975311272777888
+D2: 1.3875009139138965
+SL: 1.3674455751418675
+
+566_N.png
+area: 3838.0
+endpoints: 213
+intersection_points: 52
+median_tortuosity: 1.0765461481777479
+tortuosity_index: 1.0954668003054686
+length: 1122.7702222878038
+perimeter: 2284.0571413994912
+mean_branching_angles: 69.03900204278415
+std_branching_angles: 50.61898914095413
+median_branching_angles: 73.04541461134308
+n_obtuse: 16
+n_acute: 32
+D0: 1.3817078048854623
+D1: 1.3418039360388891
+D2: 1.3286355692236151
+SL: 1.436896649835768
+
+555_N.png
+area: 5819.0
+endpoints: 224
+intersection_points: 248
+median_tortuosity: 1.07583319079416
+tortuosity_index: 1.08384074697767
+length: 1795.7142303620483
+perimeter: 3382.600430724998
+mean_branching_angles: 79.45981192065106
+std_branching_angles: 69.07850000770885
+median_branching_angles: 59.93141717813756
+n_obtuse: 778
+n_acute: 1052
+D0: 1.4511627251162482
+D1: 1.4217088511825438
+D2: 1.4102980969737777
+SL: 1.3039606473986722
+
+567_N.png
+area: 5392.0
+endpoints: 217
+intersection_points: 138
+median_tortuosity: 1.0806052606612204
+tortuosity_index: 1.1044959155668048
+length: 1635.1205614189876
+perimeter: 3109.061325481597
+mean_branching_angles: 73.02927985367297
+std_branching_angles: 60.90282640459788
+median_branching_angles: 55.40771131249006
+n_obtuse: 403
+n_acute: 666
+D0: 1.4315112588843764
+D1: 1.410803301387367
+D2: 1.4073154662036802
+SL: 1.4015385751173635
+
+191_N.png
+area: 6076.0
+endpoints: 438
+intersection_points: 199
+median_tortuosity: 1.0923606755753548
+tortuosity_index: 1.116743442879923
+length: 1509.557125946736
+perimeter: 3517.1273426595794
+mean_branching_angles: 77.83077446317371
+std_branching_angles: 58.439309696105255
+median_branching_angles: 71.81095430034868
+n_obtuse: 113
+n_acute: 138
+D0: 1.4717425561718995
+D1: 1.4332687725151814
+D2: 1.419178282166717
+SL: 1.524892184167398
+
+478_N.png
+area: 4322.0
+endpoints: 181
+intersection_points: 78
+median_tortuosity: 1.076529061077717
+tortuosity_index: 1.086571056075942
+length: 1500.0948035698577
+perimeter: 2544.6450198781713
+mean_branching_angles: 70.88958839681676
+std_branching_angles: 58.00819520563823
+median_branching_angles: 48.366460663429805
+n_obtuse: 123
+n_acute: 230
+D0: 1.4072892182130536
+D1: 1.3720502340820568
+D2: 1.3632231346471255
+SL: 1.5706761959457287
+
+494_N.png
+area: 2875.0
+endpoints: 140
+intersection_points: 38
+median_tortuosity: 1.0783092127555993
+tortuosity_index: 1.0870141847112638
+length: 986.7799422266182
+perimeter: 1677.0550493584378
+mean_branching_angles: 116.69148910648771
+std_branching_angles: 54.13877861024183
+median_branching_angles: 139.64797069138706
+n_obtuse: 21
+n_acute: 10
+D0: 1.324174771845922
+D1: 1.2980568903541485
+D2: 1.2905723500299917
+SL: 1.3225670899223436
+
+162_N.png
+area: 5472.0
+endpoints: 284
+intersection_points: 206
+median_tortuosity: 1.081555806550592
+tortuosity_index: 1.0963660373876594
+length: 1424.0327198014602
+perimeter: 3164.245091665671
+mean_branching_angles: 75.3023441127227
+std_branching_angles: 60.149756875339854
+median_branching_angles: 58.43783544562628
+n_obtuse: 190
+n_acute: 291
+D0: 1.428923926077343
+D1: 1.412379994792882
+D2: 1.40995228209848
+SL: 1.3743164261219392
+
+550_N.png
+area: 5645.0
+endpoints: 214
+intersection_points: 103
+median_tortuosity: 1.0782731564396424
+tortuosity_index: 1.0966762770659266
+length: 1754.8957375010325
+perimeter: 3336.6958851545032
+mean_branching_angles: 69.51984536569248
+std_branching_angles: 55.99213059681096
+median_branching_angles: 57.00348780407571
+n_obtuse: 175
+n_acute: 368
+D0: 1.4387833390800326
+D1: 1.4083317305865415
+D2: 1.3976800034283998
+SL: 1.4628013680681002
+
+153_N.png
+area: 5776.0
+endpoints: 472
+intersection_points: 182
+median_tortuosity: 1.096686908428766
+tortuosity_index: 1.1280522837061433
+length: 1028.1943617133209
+perimeter: 3270.7425663487293
+mean_branching_angles: 78.50675913903859
+std_branching_angles: 70.68446582120689
+median_branching_angles: 37.18470645323312
+n_obtuse: 41
+n_acute: 50
+D0: 1.4490605313479248
+D1: 1.4414362164754777
+D2: 1.4280265433768355
+SL: 0.5393551121540681
+
+563_N.png
+area: 6186.0
+endpoints: 192
+intersection_points: 160
+median_tortuosity: 1.081855402180421
+tortuosity_index: 1.0904113446449255
+length: 2013.6724093848184
+perimeter: 3586.962912459262
+mean_branching_angles: 90.2857081455505
+std_branching_angles: 54.835734073352455
+median_branching_angles: 95.8614398446227
+n_obtuse: 239
+n_acute: 218
+D0: 1.4592411960376241
+D1: 1.4250628318481606
+D2: 1.412739522063631
+SL: 1.5822384723360703
+
+190_N.png
+area: 7864.0
+endpoints: 421
+intersection_points: 285
+median_tortuosity: 1.089257165745543
+tortuosity_index: 1.1156947824498304
+length: 1743.3267521446835
+perimeter: 4590.317384966813
+mean_branching_angles: 75.18326556049766
+std_branching_angles: 54.09293814649525
+median_branching_angles: 65.016784089472
+n_obtuse: 440
+n_acute: 708
+D0: 1.4894821487796441
+D1: 1.4693808225446794
+D2: 1.4624514014649308
+SL: 1.403026898344409
+
+176_N.png
+area: 6313.0
+endpoints: 473
+intersection_points: 175
+median_tortuosity: 1.0815389650284586
+tortuosity_index: 1.103042962692459
+length: 1628.3107192258599
+perimeter: 3600.779146275189
+mean_branching_angles: 62.79306337889339
+std_branching_angles: 56.45793657081163
+median_branching_angles: 35.600894882371186
+n_obtuse: 106
+n_acute: 236
+D0: 1.4853001557364411
+D1: 1.4492963933971348
+D2: 1.435498898837386
+SL: 1.505737389188832
+
+559_N.png
+area: 5427.0
+endpoints: 143
+intersection_points: 111
+median_tortuosity: 1.0753171646863509
+tortuosity_index: 1.0783135403510018
+length: 1959.6922583471471
+perimeter: 3175.0024509785517
+mean_branching_angles: 83.74046119283895
+std_branching_angles: 56.551627831219
+median_branching_angles: 81.38435181583588
+n_obtuse: 116
+n_acute: 136
+D0: 1.4317893036827685
+D1: 1.398089810121754
+D2: 1.3843264721206616
+SL: 1.4786425856829362
+
+475_N.png
+area: 4607.0
+endpoints: 164
+intersection_points: 99
+median_tortuosity: 1.0796244891347722
+tortuosity_index: 1.1013270285022256
+length: 1325.5077025490905
+perimeter: 2673.3678913056456
+mean_branching_angles: 83.48255126013079
+std_branching_angles: 60.125380600170914
+median_branching_angles: 67.60689461493855
+n_obtuse: 227
+n_acute: 305
+D0: 1.3955644523841086
+D1: 1.3849614811194975
+D2: 1.383193559456255
+SL: 1.3201846427106805
+
+175_N.png
+area: 6719.0
+endpoints: 470
+intersection_points: 201
+median_tortuosity: 1.0859931829829335
+tortuosity_index: 1.1618949973768464
+length: 1568.2469711917827
+perimeter: 3751.1294347006324
+mean_branching_angles: 74.36511767216388
+std_branching_angles: 63.87546378951463
+median_branching_angles: 61.78627563941149
+n_obtuse: 166
+n_acute: 233
+D0: 1.4865071746258631
+D1: 1.4476360607445278
+D2: 1.4283835873672106
+SL: 1.5064233044668733
+
